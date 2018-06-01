@@ -1,0 +1,3 @@
+https://releases.hashicorp.com/vagrant/2.1.1/vagrant_2.1.1_linux_amd64.zip
+# Dear upstream developer, please do NOT put the AppImage into a zip file.
+# Please see https://github.com/AppImage/AppImageKit/wiki/Creating-AppImages#common-mistake

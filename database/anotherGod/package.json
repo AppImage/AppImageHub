@@ -1,0 +1,29 @@
+{
+  "name": "anothergod",
+  "productName": "anotherGod",
+  "version": "0.6.0",
+  "description": "Another Gmail on the Dock",
+  "author": {
+    "name": "Walter Tosolini",
+    "email": "software@tosolini.info",
+    "url": "https://tosolini.info"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tosolini/anotherGod.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tosolini/anotherGod/issues"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "ajv": "^6.5.3",
+    "ajv-keywords": "^3.2.0",
+    "auto-launch": "^5.0.5",
+    "electron-is-dev": "^0.3.0",
+    "electron-updater": "^3.1.2",
+    "electron-window-state": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}

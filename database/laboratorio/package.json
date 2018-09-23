@@ -1,0 +1,20 @@
+{
+  "name": "laboratorio",
+  "version": "0.0.4",
+  "author": "marianorodriguez <mariano.rodriguez.232@gmail.com>",
+  "description": "An electron-vue project",
+  "license": "MIT",
+  "main": "./dist/electron/main.js",
+  "repository": "https://github.com/marianorodriguez/laboratorio",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "electron-log": "^2.2.17",
+    "electron-updater": "^3.1.2",
+    "express": "^4.16.3",
+    "vue": "^2.5.16",
+    "vue-electron": "^1.0.6",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  }
+}

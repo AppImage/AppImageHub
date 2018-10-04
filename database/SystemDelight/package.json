@@ -1,0 +1,14 @@
+{
+  "name": "system-delight",
+  "productName": "SystemDelight",
+  "version": "0.0.2",
+  "description": "Process and systemd manager for Linux environments",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Jason Hicks",
+    "email": "jaszhix@gmail.com",
+    "url": "https://github.com/jaszhix"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {}
+}

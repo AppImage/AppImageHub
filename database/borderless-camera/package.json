@@ -1,0 +1,13 @@
+{
+  "name": "borderless-camera",
+  "description": "a simple camera app without window borders, useful for the screencast recording",
+  "version": "0.0.5",
+  "license": "MIT",
+  "author": {
+    "name": "Luigi Maselli",
+    "email": "grigio.org@gmail.com",
+    "url": "https://grigio.org"
+  },
+  "private": true,
+  "main": "src/index.js"
+}

@@ -3,7 +3,6 @@ layout: app
 
 permalink: /mdview/
 description: Standalone Markdown viewer
-license: MIT
 
 icons:
   - mdview/icons/128x128/mdview.png
@@ -39,7 +38,6 @@ desktop:
       given on the command line.
     X-AppImage-Type: 2
     X-AppImage-Architecture: x86_64
-    X-AppImage-Payload-License: MIT
 
 electron:
   repository:

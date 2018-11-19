@@ -1,0 +1,30 @@
+{
+  "name": "Panda2-trial",
+  "productName": "Panda 2",
+  "version": "1.6.0",
+  "description": "Game Development Platform",
+  "author": "Eemeli Kelokorpi",
+  "homepage": "https://www.panda2.io",
+  "license": "Copyright © 2018 Eemeli Kelokorpi",
+  "main": "main.js",
+  "dependencies": {
+    "adbkit": "^2.11.0",
+    "archiver": "^2.1.0",
+    "bluebird": "^3.5.1",
+    "connect-inject": "^0.4.0",
+    "cordova": ">6.0.0",
+    "cors": "^2.8.4",
+    "electron-log": "^2.2.9",
+    "electron-window-state": "^4.1.1",
+    "express": "^4.14.1",
+    "javascript-obfuscator": "^0.16.0",
+    "node-watch": "^0.5.7",
+    "opener": "^1.4.3",
+    "panda-toolkit": "file:../../panda-toolkit",
+    "phonegap-build-api": "^0.4.0",
+    "sanitize-filename": "^1.6.1",
+    "shelljs": "^0.7.6",
+    "socket.io": "^1.7.2"
+  },
+  "trial": true
+}

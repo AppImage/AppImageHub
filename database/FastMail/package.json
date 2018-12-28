@@ -1,0 +1,9 @@
+{
+  "name": "fastmail",
+  "version": "1.0.0",
+  "description": "FastMail AppImage",
+  "main": "main.js",
+  "repository": "https://github.com/aerosol/fastmail-appimage",
+  "author": "Adam Rutkowski <hq@mtod.org>",
+  "license": "CC0-1.0"
+}

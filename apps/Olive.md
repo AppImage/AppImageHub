@@ -31,7 +31,7 @@ desktop:
     Categories: AudioVideo
     MimeType: application/vnd.olive-project
     StartupNotify: true
-    X-AppImage-Version: 9f72bc5
+    X-AppImage-Version: .inf
   AppImageHub:
     X-AppImage-UpdateInformation: gh-releases-zsync|olive-editor|olive|continuous|Olive*-x86_64.AppImage.zsync
     X-AppImage-Signature: no valid OpenPGP data found. the signature could not be verified.

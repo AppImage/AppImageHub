@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=tomomaster
+Comment=TomoChain Governance DApp
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=tomomaster
+StartupWMClass=tomomaster
+X-AppImage-Version=1.1.4.804
+Categories=Network;
+X-AppImage-BuildId=1EzMUDpgOR1EWxiuCd0yPlPG1W2
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

@@ -1,0 +1,17 @@
+{
+  "name": "Moo.do",
+  "version": "1.2.1",
+  "main": "src/main.js",
+  "author": {
+    "name": "Moo.do LLC",
+    "email": "contact@moo.do"
+  },
+  "productName": "Moo.do",
+  "homepage": "https://www.moo.do",
+  "description": "Organize your way",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "electron-dl": "^1.10.0",
+    "electron-updater": "^4.0.1"
+  }
+}

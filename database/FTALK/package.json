@@ -1,0 +1,18 @@
+{
+  "name": "ftalk-electron",
+  "productName": "FTALK",
+  "version": "1.2.1",
+  "description": "Chat FTALK",
+  "main": "index.js",
+  "author": "Giovanni Pucci <giobaer2011@live.com> (http://www.finer.com.br)",
+  "license": "ISC",
+  "dependencies": {
+    "auto-launch": "5.0.5",
+    "electron-is-dev": "^1.0.1",
+    "electron-log": "2.2.17",
+    "electron-updater": "4.0.6",
+    "electron-windows-badge": "^1.0.4",
+    "node-notifier": "^5.3.0",
+    "uuid": "^3.3.2"
+  }
+}

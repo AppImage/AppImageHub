@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Swagger Editor
+Comment=Swagger Editor Desktop Edition
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=swagger_editor_desktop
+X-AppImage-Version=0.0.2
+X-AppImage-BuildId=ac079790-0e63-11a8-3ed7-79b6013cac63
+Categories=Utility;TextEditor;Development;IDE;
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

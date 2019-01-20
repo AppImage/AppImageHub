@@ -1,0 +1,22 @@
+{
+  "name": "swagger_editor_desktop",
+  "productName": "Swagger Editor",
+  "version": "0.0.2",
+  "description": "Swagger Editor Desktop Edition",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/muhonglong/swagger-editor-desktop.git"
+  },
+  "author": "Li Xiao-Bo <xiaoboleee@gmail.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/muhonglong/swagger-editor-desktop#readme",
+  "dependencies": {
+    "about-window": "^1.8.0",
+    "electron-json-storage": "^4.0.2",
+    "electron-preferences": "^0.0.6",
+    "js-yaml": "^3.10.0",
+    "mousetrap": "^1.6.1",
+    "swagger-editor-dist": "^3.2.8"
+  }
+}

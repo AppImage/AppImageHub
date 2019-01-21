@@ -30,9 +30,9 @@ desktop:
     Type: Application
     Icon: sonist
     StartupWMClass: Sonist
-    X-AppImage-Version: 0.9.2
+    X-AppImage-Version: 0.9.3
     Categories: AudioVideo
-    X-AppImage-BuildId: 1G2HKwpx8Qt2Ju5JE2b6fmBFWJg
+    X-AppImage-BuildId: 1G4lYx4G1JlqKwXJJsszkSuTgub
   AppImageHub:
     X-AppImage-Signature: no valid OpenPGP data found. the signature could not be verified.
       Please remember that the signature file (.sig or .asc) should be the first file

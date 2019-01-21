@@ -6,9 +6,9 @@ Terminal=false
 Type=Application
 Icon=sonist
 StartupWMClass=Sonist
-X-AppImage-Version=0.9.2
+X-AppImage-Version=0.9.3
 Categories=AudioVideo;Audio;Player;Music;
-X-AppImage-BuildId=1G2HKwpx8Qt2Ju5JE2b6fmBFWJg
+X-AppImage-BuildId=1G4lYx4G1JlqKwXJJsszkSuTgub
 
 [AppImageHub]
 # Dear upstream developer, please include update information in your AppImage

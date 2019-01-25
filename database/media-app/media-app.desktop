@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Media App
+Comment=Media App
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=media-app
+X-AppImage-Version=3.0.0
+X-AppImage-BuildId=04611c70-9715-11a7-1853-758a46563049
+Categories=Video;
+
+[AppImageHub]
+X-AppImage-UpdateInformation=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+# Dear upstream developer, please include a digital signature in your AppImage
+# (e.g., with appimagetool -s) so that users can easily verify the authenticity the AppImage
+X-AppImage-Type=1
+# Dear upstream developer, please consider to switch to type 2
+# so that users can benefit from the additional features like digital embedded signatures
+# see https://github.com/AppImage/AppImageSpec/blob/master/draft.md#type-2-image-format
+# or use linuxdeployqt or appimagetool which produce type 2 automatically
+X-AppImage-Architecture=x86_64

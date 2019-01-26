@@ -1,0 +1,22 @@
+{
+  "name": "lamd",
+  "version": "3.1.0",
+  "description": "Command line utility to monitor accounts for new replays and automatically downloads them.",
+  "homepage": "https://github.com/thecoder75/lamd",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecoder75/lamd"
+  },
+  "author": "TheCoder75",
+  "license": "AGPLv3",
+  "dependencies": {
+    "async": "^2.6.1",
+    "concat-files": "^0.1.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "platform": "^1.3.5",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

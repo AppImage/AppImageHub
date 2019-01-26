@@ -1,0 +1,45 @@
+{
+  "name": "podpup",
+  "version": "0.3.0",
+  "author": "Erik Larson <erik@welarson.com>",
+  "description": "An electron-vue project",
+  "license": "GPL-3.0",
+  "main": "./dist/electron/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikssource/podpup"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "dependencies": {
+    "@saeris/vue-spinners": "^1.0.8",
+    "better-sqlite3": "^5.2.1",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "emotion": "9.2.6",
+    "event-stream": "3.3.4",
+    "file-url": "^2.0.2",
+    "filenamify": "^2.1.0",
+    "howler": "^2.1.1",
+    "install": "^0.12.2",
+    "itunes-podcasts": "^1.0.1",
+    "jquery": "^3.3.1",
+    "node-podcast-parser": "^2.3.0",
+    "printf": "^0.5.1",
+    "request": "^2.88.0",
+    "request-progress": "^3.0.0",
+    "validator": "^10.10.0",
+    "vue": "^2.5.21",
+    "vue-electron": "^1.0.6",
+    "vue-emotion": "^0.4.2",
+    "vue-fixed-header": "^2.0.2",
+    "vue-resize-split-pane": "^0.1.3",
+    "vue-sanitize": "^0.2.0",
+    "vue-slider-component": "^2.8.3",
+    "vue-toasted": "^1.1.26",
+    "vuex": "^3.0.1"
+  },
+  "optionalDependencies": {
+    "dbus-native": "^0.4.0"
+  }
+}

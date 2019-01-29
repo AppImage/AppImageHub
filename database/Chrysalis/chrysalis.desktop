@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Chrysalis
+Comment=
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=chrysalis
+StartupWMClass=Chrysalis
+X-AppImage-Version=0.3.2
+Categories=Utility;
+X-AppImage-BuildId=1G3KkNPPFxlpWz0bFbII2HXq7Tz

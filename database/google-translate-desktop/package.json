@@ -1,0 +1,11 @@
+{
+  "name": "google-translation-desktop",
+  "version": "1.0.0",
+  "description": "a desktop version of google translation using electron",
+  "main": "src/main.js",
+  "author": "zhuzilin",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

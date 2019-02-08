@@ -3,6 +3,7 @@ layout: app
 
 permalink: /Gisto/
 description: Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily. Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account! Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution. You may think of Gisto as Evernote for code.
+license: MIT
 
 icons:
   - Gisto/icons/512x512/gisto.png
@@ -34,15 +35,16 @@ desktop:
     Type: Application
     Icon: gisto
     StartupWMClass: Gisto
-    X-AppImage-Version: 1.9.61.401
+    X-AppImage-Version: 1.9.69.422
     Categories: Development
-    X-AppImage-BuildId: 18fftVLP2cjUkzy2P2yduJzjgDF
+    X-AppImage-BuildId: 190M1cGVbufTD6V6Z92K1jBTej0
   AppImageHub:
     X-AppImage-Signature: no valid OpenPGP data found. the signature could not be verified.
       Please remember that the signature file (.sig or .asc) should be the first file
       given on the command line.
     X-AppImage-Type: 2
     X-AppImage-Architecture: x86_64
+    X-AppImage-Payload-License: MIT
 
 electron:
     allows you and/or your team share code snippets fast and easily. Based on GitHub
@@ -97,38 +99,4 @@ electron:
   husky:
     hooks:
       pre-commit: npm run lint && npm test
-  jest:
-    testURL: http://localhost/
-    modulePaths:
-    - "/src"
-    - "<rootDir>"
-    moduleFileExtensions:
-    - js
-    moduleDirectories:
-    - node_modules
-    - src
-    setupFiles:
-    - "<rootDir>/test/jest-setup.js"
-    - "<rootDir>/__mocks__/electron.js"
-    - "<rootDir>/__mocks__/localStorage.js"
-    snapshotSerializers:
-    - enzyme-to-json/serializer
-    moduleNameMapper:
-      "^.+\\.(css|scss)$": identity-obj-proxy
-      monaco-editor: "<rootDir>/node_modules/react-monaco-editor"
-      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/test/assetsTransformer.js"
-    coverageDirectory: "./coverage/"
-    collectCoverage: true
-    collectCoverageFrom:
-    - src/**/*.{js}
-    - "!src/electron/**"
-    - "!src/store/**"
-    - "!src/selectors/**"
-    - "!src/reducers/root.js"
-    - "!src/index.js"
-    - "!**/node_modules/**"
-    - "!**/build/**"
-    - "!**/dist/**"
-    coverageReporters:
-    - lcov
 ---

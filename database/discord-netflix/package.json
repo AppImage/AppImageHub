@@ -1,0 +1,18 @@
+{
+  "name": "Netflix",
+  "version": "2.0.1",
+  "description": "A Netflix wrapper with Discord Rich Presence",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nirewen/discord-netflix.git"
+  },
+  "author": "Nirewen",
+  "license": "ISC",
+  "homepage": "https://github.com/nirewen/discord-netflix#readme",
+  "dependencies": {
+    "discord-rpc": "^3.0.1",
+    "electron-widevinecdm": "^5.0.2",
+    "moment": "^2.22.2"
+  }
+}

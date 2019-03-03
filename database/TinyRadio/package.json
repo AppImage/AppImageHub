@@ -1,0 +1,17 @@
+{
+  "name": "TinyRadio",
+  "version": "1.0.1",
+  "description": "A radio app listen bbc radio and other radio",
+  "main": "main.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/netroby/tiny-radio.git"
+  },
+  "author": "ZhiFeng Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netroby/tiny-radio/issues"
+  },
+  "homepage": "https://github.com/netroby/tiny-radio#readme"
+}

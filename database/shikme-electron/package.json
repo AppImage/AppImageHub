@@ -1,0 +1,19 @@
+{
+  "name": "shikme-electron",
+  "version": "1.0.8",
+  "description": "Electron app for Shikme",
+  "main": "src/app.js",
+  "homepage": "https://shikme.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yegorgunko/shikme-electron.git"
+  },
+  "author": "Yegor Gunko",
+  "license": "MIT",
+  "dependencies": {
+    "electron-context-menu": "^0.11.0",
+    "electron-is-dev": "^1.0.1",
+    "electron-store": "^2.0.0",
+    "electron-updater": "^4.0.6"
+  }
+}

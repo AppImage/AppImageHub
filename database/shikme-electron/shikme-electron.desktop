@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Shikme
+Comment=Electron app for Shikme
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=shikme-electron
+StartupWMClass=Shikme
+X-AppImage-Version=1.0.8
+Categories=Network;
+X-AppImage-BuildId=1HrgH5XrbPMc5W1CUlPhR4edZuR
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

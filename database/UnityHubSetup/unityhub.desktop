@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Unity Hub
+Comment=The Official Unity Hub
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=unityhub
+X-AppImage-Version=1.6.0
+X-AppImage-BuildId=06779bb0-3eb7-11a9-3bc5-e720fafacb56
+MimeType=x-scheme-handler/unityhub;
+Categories=Development;
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

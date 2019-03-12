@@ -1,0 +1,3 @@
+https://github.com/DEAKSoftware/OpenPHT-AppImage/releases/download/1.8.0.148/OpenPHT-1.8.0.148.Xenial-x86_64.AppImage
+# Link without version would be better
+# but they provide different(!) AppImages. Why? AppImages built on older systems should run on newer systems as well

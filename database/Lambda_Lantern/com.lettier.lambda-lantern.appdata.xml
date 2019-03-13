@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.lettier.lambda-lantern</id>
+  <name>Lambda Lantern</name>
+  <name xml:lang="en_US">Lambda Lantern</name>
+  <summary>A 3D game about functional programming patterns. Uses PureScript, PureScript Native, C++, and Panda3D</summary>
+  <developer_name>David Lettier</developer_name>
+  <description>
+  <p>
+    A 3D game about functional programming patterns. Uses PureScript, PureScript Native, C++, and Panda3D.
+  </p>
+</description>
+  <metadata_license>CC-BY-SA-3.0</metadata_license>
+  <project_license>BSD-3-Clause</project_license>
+  <url type="homepage">https://github.com/lettier/lambda-lantern</url>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Lambda Lantern</caption>
+      <image height="450" width="800">https://i.imgur.com/mwTFPkq.png</image>
+    </screenshot>
+  </screenshots>
+</component>

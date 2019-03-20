@@ -1,0 +1,20 @@
+{
+  "name": "ganjoor-electron",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.12",
+    "@fortawesome/free-solid-svg-icons": "^5.6.3",
+    "@fortawesome/vue-fontawesome": "^0.1.4",
+    "bulma-rtl": "^0.7.1",
+    "decompress": "^4.2.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0",
+    "sqlite3": "^4.0.4",
+    "tedious": "^3.0.1",
+    "vue": "^2.5.21",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "main": "background.js"
+}

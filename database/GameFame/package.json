@@ -1,0 +1,17 @@
+{
+  "name": "game-fame",
+  "productName": "GameFame",
+  "version": "0.0.1",
+  "description": "COMS 4156: Advanced Software Engineering Project",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "url": "https://github.com/johndoe"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^5.5.7",
+    "grpc": "^1.16.0"
+  }
+}

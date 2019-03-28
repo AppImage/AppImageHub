@@ -1,0 +1,10 @@
+{
+  "name": "fcr-cloud",
+  "productName": "Faschingsclub Rain e.V. Cloud",
+  "version": "1.0.4",
+  "description": "Ein Web-Desktop-Client für Faschingsclub Rain e.V. - Cloud",
+  "main": "src/main.js",
+  "author": "BunsiMedia",
+  "license": "GPL-3.0",
+  "homepage": "https://cloud.faschingsclubrain.de"
+}

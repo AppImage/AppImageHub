@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "ParkAlter@WorldMobileCoin",
+    "email": "worldmobilecoin@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/WorldMobileCoin/wmcc-desktop/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "electron-updater": "2.16.3",
+    "leveldown": "1.7.2",
+    "node-x15": "*",
+    "secp256k1": "3.3.0",
+    "socket.io": "2.0.3",
+    "socket.io-client": "2.0.3",
+    "wmcc-core": "*",
+    "wmcc-credential": "*",
+    "wmcc-exchange-client": "*",
+    "wmcc-native": "*",
+    "wmcc-node": "*"
+  },
+  "deprecated": false,
+  "description": "WorldMobileCoin © WMCC Desktop Application",
+  "homepage": "https://github.com/WorldMobileCoin/wmcc-desktop",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "wmcc-desktop",
+  "optionalDependencies": {
+    "wmcc-native": "*"
+  },
+  "productName": "wmcc-desktop",
+  "release": "15 Jan 2019",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WorldMobileCoin/wmcc-desktop.git"
+  },
+  "version": "1.1.1-beta.7"
+}

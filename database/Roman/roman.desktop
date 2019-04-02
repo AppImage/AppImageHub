@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=./Roman
+Icon=roman
+Name=Roman
+Comment=A course material builder for online learning systems (tkinter gui)
+Comment[fi]=Verkkokurssimateriaalin kääntötyökalu (tkinter gui)
+GenericName=Course material builder
+Categories=Development;Building;
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

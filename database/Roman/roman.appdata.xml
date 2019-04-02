@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright 2018 Jaako Kantojärvi <jaakko.kantojarvi@aalto.fi>
+  vim: et:ts=2:sw=2
+-->
+<component type="desktop-application">
+  <id>io.github.apluslms.Roman.roman_tki</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Roman</name>
+  <summary>A course material builder for online learning systems (tkinter gui)</summary>
+
+  <launchable type="desktop-id">io.github.apluslms.Roman.roman_tki.desktop</launchable>
+
+  <description>
+    <p>
+      Roman is a program used to build course material for online learning systems (LMS).
+      Course material is compiled to LMS configrations and presentation files using Docker
+      containers. Roman manages this process. In addition, Roman runs validation step to verify
+      that the generated configuration is valid and usable by the LMS.
+    </p>
+    <p>
+      Roman has been designed specifically to work with A+ online learning system.
+      With A+, course material is written in reStructuredText (RST). Material is compiled
+      to html and yaml files using Ariel, a tool build on top of Sphinx that contains
+      custom extensions for this purpose. Typical course definition includes Ariel as
+      a build step.
+    </p>
+    <p>
+      Roman requires Docker CE to be installed in your system and you to have access to it.
+    </p>
+  </description>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>A successful build</caption>
+      <image>https://github.com/apluslms/roman/raw/master/simple_gui/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+
+  <url type="homepage">https://github.com/apluslms/roman</url>
+  <developer_name>A+ LMS Team</developer_name>
+</component>

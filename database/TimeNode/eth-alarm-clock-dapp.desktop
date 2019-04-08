@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=TimeNode
+Comment=
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=eth-alarm-clock-dapp
+StartupWMClass=TimeNode
+X-AppImage-Version=1.4.2
+Categories=Finance;
+X-AppImage-BuildId=1HEVHXDpQHKOSbTtpe2jRqHaN3z
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

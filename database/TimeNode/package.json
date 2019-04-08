@@ -1,0 +1,37 @@
+{
+  "name": "eth-alarm-clock-dapp",
+  "version": "1.4.2",
+  "main": "main.js",
+  "description": "",
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "prettier --write --config ./.prettierrc --config-precedence file-override",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "electron-is-dev": "1.0.1",
+    "electron-updater": "4.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chronologic/eth-alarm-clock-dapp"
+  },
+  "browserslist": [
+    "defaults",
+    "not ie < 11"
+  ],
+  "jest": {
+    "modulePathIgnorePatterns": [
+      "<rootDir>/eth-alarm-clock-dapp-.*"
+    ],
+    "testURL": "http://localhost"
+  },
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}

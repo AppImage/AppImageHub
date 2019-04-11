@@ -1,0 +1,11 @@
+{
+  "name": "gkreta",
+  "version": "0.7.0",
+  "description": "It's an application for displaying your informations from the KRÉTA systems. (Written in Electron)",
+  "main": "main.js",
+  "author": "thegergo02",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "keytar": "^4.4.0"
+  }
+}

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Media Mate
+Comment=A full media server/player/downloader/etc - in one
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=media_mate
+X-AppImage-Version=1.3.3.130
+X-AppImage-BuildId=2d34adc0-d8a5-11a7-1ecd-6120b54e0699
+Categories=AudioVideo;
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

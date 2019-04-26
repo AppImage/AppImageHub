@@ -1,0 +1,16 @@
+{
+  "name": "makerlog-menubar",
+  "version": "1.0.7",
+  "description": "A menubar app for Makerlog",
+  "author": {
+    "name": "Ethan",
+    "email": "me@ethan.link"
+  },
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "electron-json-storage": "^4.1.6",
+    "rws": "0.0.1",
+    "yarn": "^1.15.2"
+  },
+  "main": "main.js"
+}

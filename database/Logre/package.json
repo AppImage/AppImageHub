@@ -1,0 +1,13 @@
+{
+  "name": "logre",
+  "version": "1.1.0",
+  "description": "A simple syslog reader",
+  "main": "main.js",
+  "repository": "https://github.com/yafp/logre",
+  "bugs": {
+    "url": "https://github.com/yafp/logre/issues"
+  },
+  "author": "yafp  <fidel@yafp.de>",
+  "license": "GPL-3.0",
+  "dependencies": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "skaffe",
+  "version": "0.0.0",
+  "license": "MIT",
+  "homepage": "http://www.google.com",
+  "description": "blablabla",
+  "author": "PatLaplante Software Consulting <laplante.patrick@gmail.com> (https://patlaplante.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patbonecrusher/skaffe.git"
+  },
+  "dependencies": {
+    "electron-builder-squirrel-windows": "^20.40.0",
+    "source-map-support": "^0.5.12"
+  },
+  "main": "main.js"
+}

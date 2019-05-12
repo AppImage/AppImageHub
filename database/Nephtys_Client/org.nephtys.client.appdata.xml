@@ -1,0 +1,20 @@
+<component type="desktop-application">
+    <id>org.nephtys.client.desktop</id>
+    <metadata_license>MIT</metadata_license>
+    <project_license>MIT</project_license>
+    <name>nephtys_client</name>
+    <summary>OpenSource MMORPG client</summary>
+    <description>
+        <p>Written in c++17</p>
+    </description>
+    <launchable type="desktop-id">org.nephtys.client.desktop</launchable>
+    <url type="homepage">https://github.com/Milerius/nephtys</url>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://www.freedesktop.org/software/appstream/docs/images/scr-examples/geany-good.png</image>
+        </screenshot>
+    </screenshots>
+    <provides>
+        <id>org.nephtys.client.desktop</id>
+    </provides>
+</component>

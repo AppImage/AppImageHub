@@ -1,0 +1,56 @@
+{
+  "name": "sirius-tracker",
+  "productName": "Sirius Tracker",
+  "version": "1.2.0",
+  "description": "A app for track Sirius market information.",
+  "main": "./src/app.js",
+  "license": "MIT",
+  "copyright": "Iolar Demartini Junior",
+  "author": {
+    "name": "Iolar Demartini Junior",
+    "email": "iolardemartini@gmail.com",
+    "url": "https://iolardemartini.com"
+  },
+  "homepage": "https://github.com/demartini/sirius-tracker#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demartini/sirius-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/demartini/sirius-tracker/issues"
+  },
+  "postinstall": "electron-builder install-app-deps",
+  "dependencies": {
+    "@amaurymartiny/menubar": "^6.0.0",
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "auto-launch": "^5.0.5",
+    "bootstrap": "^4.3.1",
+    "electron-is-dev": "^1.1.0",
+    "electron-log": "^3.0.5",
+    "electron-store": "^3.2.0",
+    "electron-updater": "^4.0.6",
+    "jquery": "^3.4.0",
+    "numeral": "^2.0.6",
+    "popper.js": "^1.15.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "eslint",
+      "git add"
+    ],
+    "*.css": [
+      "stylelint --fix",
+      "git add"
+    ],
+    "*.html": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}

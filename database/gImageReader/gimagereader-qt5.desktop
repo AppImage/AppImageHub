@@ -1,0 +1,38 @@
+[Desktop Entry]
+Name=gImageReader
+GenericName=OCR application
+GenericName[ar_SA]=برنامج التعرف الضوئي للمستندات المصورة
+GenericName[cs]=optické rozpoznávání znaků (OCR)
+GenericName[de]=Texterkennung
+GenericName[es_ES]=Aplicación para OCR
+GenericName[eu]=OCR aplikazioa
+GenericName[fr]=Application OCR
+GenericName[ie]=Application OCR
+GenericName[it]=Applicazione OCR
+GenericName[ko]=OCR 응용 프로그램
+GenericName[nb_NO]=Tekstgjenkjenningsprogram
+GenericName[nl]=OCR-applicatie
+GenericName[pt]=Aplicativo de OCR
+GenericName[pt_BR]=Aplicativo de OCR
+GenericName[ru]=Приложение OCR
+GenericName[uk]=OCR-додаток
+GenericName[zh_CN]=OCR 应用程序
+GenericName[zh_HK]=OCR 應用程式
+GenericName[zh_TW]=OCR 應用程式
+Exec=gimagereader-qt5 %U
+Icon=gimagereader
+Terminal=false
+Type=Application
+StartupNotify=true
+StartupWMClass=gimagereader-qt5
+Categories=Graphics;OCR;Scanning;
+MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/x-bmp;image/x-ico;image/x-png;image/x-pcx;image/x-tga;image/xpm;image/svg+xml;
+Keywords=OCR;optical character recognition;Scanner;tesseract;
+X-AppImage-Version=f01faae
+
+[AppImageHub]
+X-AppImage-UpdateInformation=gh-releases-zsync|probonopd|gImageReader|continuous|gImageReader*-x86_64.AppImage.zsync
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=GPL-3.0

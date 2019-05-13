@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Glest Team <glest@gmail.com> -->
+<!-- all urls http type; minimal version of validator: 0.6.1 -->
+<component type="desktop">
+  <id>io.glest.Glest.desktop</id>
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <project_license>GPL-3.0+ and CC-BY-SA-3.0</project_license>
+  <name>Glest</name>
+  <summary>network multi-player real-time strategy game engine</summary>
+  <description>
+    <p>Glest is a network multi-player real-time strategy game
+    engine. It includes several
+    factions, each one consisting of many 3d characters. The factions
+    are loosely based on historical empires with added elements of
+    fantasy, such as mummies produced by Egyptian priests, shamans who summon thunderbirds for air assaults, and Norsemen who
+    can build flying valkries and "Thors". Start the game by harvesting
+    natural resources, then use the cash to produce an army.
+    Single-player mode against the CPU is also available.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://glest.io/docs/assets/screenshots/screen146.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://glest.io/docs/assets/screenshots/natulka_1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://glest.io/docs/assets/screenshots/screen147.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://glest.io/docs/assets/screenshots/screen141.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://glest.io/docs/assets/screenshots/screen143.jpg</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://glest.io</url>
+  <url type="bugtracker">https://github.com/Glest/glest-source/issues</url>
+  <url type="faq">https://glest.io/docs/faq.html</url>
+  <url type="help">https://glest.github.io</url>
+  <!--   <url type="donation">http://glest.org/donations</url> -->
+  <!-- <url type="translate">http://translate.glest.org</url> -->
+  <developer_name>The Glest Team</developer_name>
+  <update_contact>https://github.com/Glest/glest-source#contact</update_contact>
+  <content_rating type="oars-1.0">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+    <content_attribute id="violence-realistic">mild</content_attribute>
+    <content_attribute id="violence-bloodshed">mild</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">mild</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">intense</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <languages>
+    <lang percentage="53">sq</lang>
+    <lang percentage="66">ar</lang>
+    <lang percentage="96">zh_CN</lang>
+    <lang percentage="63">zh_TW</lang>
+    <lang percentage="97">cs</lang>
+    <lang percentage="91">da</lang>
+    <lang percentage="97">nl</lang>
+    <lang percentage="100">en</lang>
+    <lang percentage="97">fr</lang>
+    <lang percentage="97">gd</lang>
+    <lang percentage="97">de</lang>
+    <lang percentage="96">el</lang>
+    <lang percentage="94">he</lang>
+    <lang percentage="95">id</lang>
+    <lang percentage="97">ga</lang>
+    <lang percentage="97">it</lang>
+    <lang percentage="51">ja</lang>
+    <lang percentage="50">lt</lang>
+    <lang percentage="94">nqo</lang>
+    <lang percentage="97">pl</lang>
+    <lang percentage="61">pt</lang>
+    <lang percentage="97">pt_BR</lang>
+    <lang percentage="94">ro</lang>
+    <lang percentage="97">ru</lang>
+    <lang percentage="75">sl</lang>
+    <lang percentage="97">es</lang>
+    <lang percentage="77">tr</lang>
+    <lang percentage="88">uz</lang>
+    <lang percentage="57">vi</lang>
+  </languages>
+</component>

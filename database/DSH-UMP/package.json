@@ -1,0 +1,13 @@
+{
+  "name": "dsh-ump",
+  "version": "1.2.0",
+  "description": "tenant management portal for DSH",
+  "author": {
+    "name": "klarrio"
+  },
+  "dependencies": {
+    "electron-updater": "2.20.1",
+    "electron-log": "2.2.14",
+    "keytar": "4.2.1"
+  }
+}

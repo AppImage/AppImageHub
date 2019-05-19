@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=QMQTT Client
+Comment=MQTT Client GUI Written with Qt 
+Icon=qmqtt-client
+Type=Application
+Categories=Engineering;Development;
+Exec=qmqtt-client
+X-AppImage-Version=d47e7d5
+
+[AppImageHub]
+X-AppImage-UpdateInformation=gh-releases-zsync|probonopd|qmqtt-client|continuous|QMQTT_Client*-x86_64.AppImage.zsync
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=LGPL-3.0

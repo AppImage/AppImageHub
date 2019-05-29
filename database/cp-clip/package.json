@@ -1,0 +1,16 @@
+{
+  "name": "cp-clip",
+  "productName": "cp-clip",
+  "version": "0.3.2",
+  "description": "cp-clip",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Akane",
+    "email": "arek.klein@gmail.com",
+    "url": "https://github.com/aklein13"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}

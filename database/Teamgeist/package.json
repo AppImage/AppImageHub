@@ -1,0 +1,24 @@
+{
+  "name": "Teamgeist",
+  "description": "Регистратор активности сотрудников FaceIT.",
+  "version": "2.5.2",
+  "license": "CC0-1.0",
+  "homepage": "http://teamgeist.loc",
+  "main": "main.js",
+  "files": [
+    "./icons",
+    "./images",
+    "./addons"
+  ],
+  "author": {
+    "email": "dmitry.oplachko@faceit.com.ua"
+  },
+  "dependencies": {
+    "electron-json-storage": "^4.1.0",
+    "electron-simple-updater": "^1.2.3",
+    "fs": "0.0.1-security",
+    "js-sha256": "^0.3.0",
+    "remote": "^0.2.6",
+    "require": "^2.4.20"
+  }
+}

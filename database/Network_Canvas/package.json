@@ -1,0 +1,16 @@
+{
+  "name": "network-canvas",
+  "version": "4.0.0",
+  "productName": "Network Canvas",
+  "description": "Simplifying complex network data collection.",
+  "author": "Complex Data Collective",
+  "private": true,
+  "homepage": ".",
+  "main": "electron-starter.js",
+  "dependencies": {
+    "electron-log": "^2.2.17",
+    "electron-updater": "^3.2.3",
+    "mdns": "^2.4.0",
+    "secure-comms-api": "git+https://github.com/codaco/secure-comms-api.git"
+  }
+}

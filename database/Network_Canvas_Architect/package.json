@@ -1,0 +1,22 @@
+{
+  "name": "network-canvas-architect",
+  "version": "4.0.0",
+  "productName": "Network Canvas Architect",
+  "description": "A tool for creating Network Canvas interviews.",
+  "author": "Complex Data Collective",
+  "private": true,
+  "engines": {
+    "node": "8.16.0",
+    "npm": "6.4.1"
+  },
+  "homepage": ".",
+  "main": "electron-starter.js",
+  "dependencies": {
+    "electron-log": "^2.2.7",
+    "electron-updater": "^3.2.3"
+  },
+  "browser": {
+    "canvas": false,
+    "jsdom": false
+  }
+}

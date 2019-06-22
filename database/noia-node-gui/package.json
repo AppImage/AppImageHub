@@ -1,0 +1,31 @@
+{
+  "name": "noia-node-gui",
+  "version": "0.4.0",
+  "description": "Node GUI",
+  "homepage": "http://noia.network",
+  "main": "main.js",
+  "author": {
+    "name": "NOIA Network Limited",
+    "email": "info@noia.network"
+  },
+  "license": "LGPL-2.1",
+  "dependencies": {
+    "@angular/animations": "^5.2.9",
+    "@noia-network/node": "0.2.6",
+    "date-fns": "^1.29.0",
+    "diskusage-ng": "^0.2.3",
+    "ngx-toastr": "^8.3.0",
+    "os": "^0.1.1",
+    "@types/opn": "^5.1.0",
+    "electron-updater": "^3.0.1",
+    "opn": "^5.3.0",
+    "randombytes": "^2.0.6",
+    "request": "^2.85.0",
+    "typeface-roboto": "0.0.54",
+    "typeface-roboto-mono": "0.0.54"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noia-network/noia-node-gui.git"
+  }
+}

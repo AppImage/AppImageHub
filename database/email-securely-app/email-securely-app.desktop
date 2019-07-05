@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=email-securely-app
+Comment=Unofficial desktop app for E2E encrypted email providers
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=email-securely-app
+StartupWMClass=email-securely-app
+X-AppImage-Version=1.3.0.232
+Categories=Office;
+X-AppImage-BuildId=17wcPoPi3sDbM18JvECojz1BF3A
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

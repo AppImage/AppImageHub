@@ -3,7 +3,6 @@ layout: app
 
 permalink: /laravel-kit/
 description: Easy Laravel application management
-license: MIT
 
 icons:
   - laravel-kit/icons/128x128/laravel-kit.png
@@ -38,7 +37,6 @@ desktop:
       given on the command line.
     X-AppImage-Type: 2
     X-AppImage-Architecture: x86_64
-    X-AppImage-Payload-License: MIT
 
 electron:
   main: main.js

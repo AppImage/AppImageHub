@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=BatchExplorer
+Comment=Batch Explorer is a tool to manage your Azure Batch accounts
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=batch-explorer
+StartupWMClass=BatchExplorer
+X-AppImage-Version=0.19.2-stable.231.231
+MimeType=x-scheme-handler/ms-batchlabs;x-scheme-handler/ms-batch-explorer;
+Categories=Development;
+X-AppImage-BuildId=1Fx3FzaBBXu7fes23QrZym4z7Wn
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

@@ -1,0 +1,10 @@
+{
+  "name": "Puddle",
+  "displayName": "Puddle",
+  "version": "0.1.1",
+  "description": "A web browser for full desktop apps.",
+  "author": "Geschafft <hello@geschafft.co> (https://geschafft.co)",
+  "repository": "https://github.com/geschafft-co/puddle",
+  "license": "MIT",
+  "main": "src/main.js"
+}

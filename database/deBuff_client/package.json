@@ -1,0 +1,18 @@
+{
+  "name": "debuff-client",
+  "version": "1.0.1",
+  "description": "A client used to distribute a website's content via WebTorrent.",
+  "main": "./controllers/main.js",
+  "author": "Braeden Diaz <braedendiaz@gmail.com>",
+  "homepage": "https://debuff.info",
+  "license": "MIT",
+  "dependencies": {
+    "electron-log": "^3.0.5",
+    "electron-updater": "^4.0.6",
+    "jquery": "^3.3.1",
+    "rimraf": "^2.6.3",
+    "vis": "^4.21.0",
+    "webtorrent": "^0.103.0",
+    "ws": "^6.1.2"
+  }
+}

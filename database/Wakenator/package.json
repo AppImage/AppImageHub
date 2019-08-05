@@ -1,0 +1,20 @@
+{
+  "name": "wakenator",
+  "version": "1.0.2",
+  "description": "Wake up your teammates",
+  "main": "main.js",
+  "homepage": "https://github.com/edus44/wakenator",
+  "repository": "git@github.com:edus44/wakenator.git",
+  "author": {
+    "name": "edus44",
+    "email": "eduhhg@gmail.com"
+  },
+  "license": "GPLv3",
+  "dependencies": {
+    "auto-launch": "^5.0.5",
+    "debug": "^3.1.0",
+    "electron-log": "^2.2.14",
+    "electron-menubar": "^1.0.1",
+    "electron-updater": "^2.21.10"
+  }
+}

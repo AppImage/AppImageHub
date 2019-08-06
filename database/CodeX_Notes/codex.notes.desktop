@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=CodeX Notes
+Comment=Simple, fast and useful crossplatform notes application based on CodeX Editor and Electron.
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=codex.notes
+X-AppImage-Version=2.2.2
+X-AppImage-BuildId=39aa5250-136c-11a9-0c50-b55adbb29a62
+Categories=Utility;
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

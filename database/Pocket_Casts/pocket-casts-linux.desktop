@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Pocket Casts
+Comment=Electron wrapper around the Pocket Casts web app with support for MPRIS (media controls)
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=pocket-casts-linux
+StartupWMClass=Pocket Casts
+X-AppImage-Version=1.2.1
+Categories=AudioVideo;Audio;
+X-AppImage-BuildId=1J3DSggbjNxAFdGViuhemlSJQAF
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

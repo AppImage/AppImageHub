@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "pocket-casts-linux",
+  "version": "1.2.1",
+  "license": "MIT",
+  "description": "Electron wrapper around the Pocket Casts web app with support for MPRIS (media controls)",
+  "homepage": "https://github.com/jgierer12/pocket-casts-linux",
+  "author": {
+    "name": "Jonas Gierer",
+    "email": "jgierer12@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgierer12/pocket-casts-linux.git"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "dom-loaded": "^1.0.1",
+    "electron-is-dev": "^1.0.1",
+    "electron-window-state": "^5.0.3",
+    "mpris-service": "^2.0.0",
+    "select-dom": "^4.1.3"
+  }
+}

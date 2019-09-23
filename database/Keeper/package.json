@@ -1,0 +1,14 @@
+{
+  "name": "keeper",
+  "version": "1.0.1",
+  "description": "A electron application that shows a webview for keep.google.com",
+  "main": "src/index.js",
+  "author": "David Trinchi",
+  "license": "ISC",
+  "repository": "https://github.com/trinchi/keeper",
+  "dependencies": {
+    "electron-log": "^3.0.1",
+    "electron-store": "^2.0.0",
+    "electron-updater": "^4.0.6"
+  }
+}

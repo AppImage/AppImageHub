@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Keeper
+Comment=A electron application that shows a webview for keep.google.com
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=keeper
+StartupWMClass=Keeper
+X-AppImage-Version=1.0.1
+Categories=Utility;
+X-AppImage-BuildId=1I8oG0NAW7mqirErkUvjgjAf0LJ
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

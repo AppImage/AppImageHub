@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>org.gnucash.GnuCash</id>
+  <launchable type="desktop-id">gnucash.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>GnuCash</name>
+  <name xml:lang="mni@bengali">GnuCash</name>
+  <name xml:lang="mni">GnuCash</name>
+  <name xml:lang="mai">ग्नूकैश</name>
+  <name xml:lang="ks">GnuCash</name>
+  <name xml:lang="kok@latin">GnuCash</name>
+  <name xml:lang="kok">GnuCash</name>
+  <name xml:lang="brx">GnuCash</name>
+  <name xml:lang="as">GnuCash</name>
+  <name xml:lang="zh_TW">GnuCash</name>
+  <name xml:lang="ur">GnuCash</name>
+  <name xml:lang="te">Gnuక్యాష్</name>
+  <name xml:lang="ta">GnuCash</name>
+  <name xml:lang="ru">GnuCash</name>
+  <name xml:lang="ro">GnuCash</name>
+  <name xml:lang="pt_BR">GnuCash</name>
+  <name xml:lang="pt">GnuCash</name>
+  <name xml:lang="nb">GnuCash</name>
+  <name xml:lang="mr">GnuCash</name>
+  <name xml:lang="lv">GnuCash</name>
+  <name xml:lang="lt">GnuCash</name>
+  <name xml:lang="kn">ಗ್ನುಕ್ಯಾಶ್</name>
+  <name xml:lang="it">GnuCash</name>
+  <name xml:lang="hi">GnuCash</name>
+  <name xml:lang="fr">GnuCash</name>
+  <name xml:lang="es">GnuCash</name>
+  <name xml:lang="de">GnuCash</name>
+  <name xml:lang="ar">جنوكاش</name>
+  <name xml:lang="zh_CN">GnuCash</name>
+  <name xml:lang="uk">GnuCash</name>
+  <name xml:lang="tr">GnuCash</name>
+  <name xml:lang="sv">GnuCash</name>
+  <name xml:lang="sr">Гнуов новчић</name>
+  <name xml:lang="sk">GnuCash</name>
+  <name xml:lang="nl">GnuCash</name>
+  <name xml:lang="ja">GnuCash</name>
+  <name xml:lang="fa">گنوکش</name>
+  <name xml:lang="da">GnuCash</name>
+  <name xml:lang="ca">GnuCash</name>
+  <summary>Manage your finances, accounts, and investments</summary>
+  <summary xml:lang="mni@bengali">অদোমগী ফাইনান্সেস, একাউন্তস, অমসুং ইনভেস্তমেন্তস শীল-লাংউ</summary>
+  <summary xml:lang="mni">ꯑꯗꯣꯝꯒꯤ ꯐꯥꯏꯅꯥꯟꯁꯦꯁ, ꯑꯦꯀꯥꯎꯟꯠꯁ, ꯑꯃꯁꯨꯡ ꯏꯟꯚꯦꯁꯃꯦꯟꯠꯁ ꯁꯤꯜ-ꯂꯥꯡꯎ</summary>
+  <summary xml:lang="mai">अपन वित्त, खाता आओर निवेश क'  प्रबंधन करू</summary>
+  <summary xml:lang="ks">पनॊन फायनानोस,एिकावुंट, तॊ ईनवीसटेमींट कॊरीव मनिज</summary>
+  <summary xml:lang="kok@latin">Tuji duddu, khatim ani guntovnnuk hatall</summary>
+  <summary xml:lang="kok">तुमचे वित्त,खाती आणि गुंतवणूकींचे व्यवस्थापन करात</summary>
+  <summary xml:lang="doi">अपने फाइनांस, खातें ते निवेशें दा प्रबंधन करो </summary>
+  <summary xml:lang="brx">नोंथांनि रां, एकाउन्ट, आरो रांखामानियाव बाहायनायखौ सामलाय</summary>
+  <summary xml:lang="as">আপোনাৰ বিত্তবোৰ, একাউন্টবোৰ, আৰু বিনিয়োগবোৰ পৰিচালনা কৰক</summary>
+  <summary xml:lang="vi">Quản lý tài chính, các tài khoản và vốn cố định</summary>
+  <summary xml:lang="ur">آپ اپنے مالگزاری، اكاؤنٹس اور سرمایہ كاری كا بندوبست كرو</summary>
+  <summary xml:lang="te">మీ ఆర్ధికాలను, ఖాతాలను, పెట్టుబడులను నిర్వహించు</summary>
+  <summary xml:lang="ta">உங்கள் நிதிகள், கணக்குகள், மற்றும் முதலீடுகளை பராமரிக்கவும்</summary>
+  <summary xml:lang="ru">Управляйте своими финансами, счетами и инвестициями</summary>
+  <summary xml:lang="ro">Administrează-ţi finanţele, conturile și investiţiile</summary>
+  <summary xml:lang="pt_BR">Gerencie suas finanças, contas e investimentos</summary>
+  <summary xml:lang="pt">Faça a gestão das suas finanças, contas e investimentos</summary>
+  <summary xml:lang="pl">Zarządzaj swoimi finansami, kontami i inwestycjami</summary>
+  <summary xml:lang="ne">तपाईँको वित्तहरू, खाताहरू, र लगानीहरू प्रबन्ध गर्नुहोस्</summary>
+  <summary xml:lang="nb">Forvalt dine finanser, kontoer og investeringer</summary>
+  <summary xml:lang="mr">तुमचे आर्थिक व्यवहार, खाते आणि गुंतवणुकी यांचे व्यवस्थापन करा</summary>
+  <summary xml:lang="lv">Pārvaldiet savas finanses, kontus un investīcijas</summary>
+  <summary xml:lang="lt">Valdykite savo finansus, sąskaitas ir investicijas</summary>
+  <summary xml:lang="ko">재정, 계정 및 투자 관리</summary>
+  <summary xml:lang="kn">ನಿಮ್ಮ ಹಣಕಾಸುಗಳನ್ನು, ಖಾತೆಗಳನ್ನು ಹಾಗು ಹೂಡಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ</summary>
+  <summary xml:lang="it">Gestisce le proprie finanze, i conti e gli investimenti</summary>
+  <summary xml:lang="hu">Igazgassa pénzügyeit, számláit és befektetéseit</summary>
+  <summary xml:lang="hi">अपने वित्त, खातों और निवेशों का प्रबंधन करें</summary>
+  <summary xml:lang="gu">તમારા નાણાકીય, હિસાબો અને રોકાણનું સંચાલન કરો</summary>
+  <summary xml:lang="fr">Gérez vos finances, vos comptes et vos investissements</summary>
+  <summary xml:lang="es">Gestione sus finanzas, cuentas e inversiones</summary>
+  <summary xml:lang="en_GB">Manage your finances, accounts, and investments</summary>
+  <summary xml:lang="de">Verwaltung der Finanzen von Privatanwendern und Kleinbetrieben.</summary>
+  <summary xml:lang="bg">Управлявайте финанси, сметки и инвестиции</summary>
+  <summary xml:lang="ar">إدارة الشؤون المالية والحسابات والاستثمارات الخاص بك</summary>
+  <summary xml:lang="zh_CN">管理您的财务、账户与投资</summary>
+  <summary xml:lang="uk">Керування вашими фінансами, рахунками та інвестиціями</summary>
+  <summary xml:lang="tr">Maliyet, hesap ve yatırımlarınızı yönetin</summary>
+  <summary xml:lang="sr">Управљајте вашим финансијама, налозима, и улагањима</summary>
+  <summary xml:lang="nl">Om uw financiën, rekeningen en investeringen te beheren</summary>
+  <summary xml:lang="ja">財務、口座および投資を管理します</summary>
+  <summary xml:lang="fa">امور مالی،حساب‌ها و سرمایه‌گذاری خود را مدیریت کن</summary>
+  <summary xml:lang="eu">Kudeatu zure finantzak, kontuak eta inbertsioak</summary>
+  <summary xml:lang="da">Håndter dine finanser, konti og investeringer</summary>
+  <summary xml:lang="cs">Spravovat vaše finance, účty a investice</summary>
+  <summary xml:lang="ca">Gestioneu les vostres finances, comptes i inversions</summary>
+  <description>
+    <p>
+      GnuCash is a program for personal and small-business financial-accounting.
+    </p>
+    <p xml:lang="mni@bengali">GnuCash অসি মীওই অমগী অমসুং অপীকপা-ব্যুজিনেস ফাইনান্সিএল-একাউন্তিংগী প্রোগ্রাম অমনি।</p>
+    <p xml:lang="mni">GnuCash ꯑꯁꯤ ꯑꯁꯤ ꯃꯤ ꯃꯁꯥꯒꯤ ꯑꯣꯏꯕ ꯑꯃꯁꯨꯡ ꯑꯄꯤꯛꯄ ꯂꯂꯣꯟ-ꯏꯇꯤꯛꯀꯤ ꯁꯦꯜꯊꯨꯝ-ꯑꯦꯀꯥꯎꯟꯇꯤꯡꯒꯤ ꯄ꯭ꯔꯣꯒ꯭ꯔꯥꯝ ꯑꯃꯅꯤ ꯫</p>
+    <p xml:lang="mai">GnuCash व्यक्तिगत आओर लघु-व्यवसाय वित्तीय-लेखांकन कलेल एकटा प्रोग्राम अछि. </p>
+    <p xml:lang="ks">GnuCash छु अख परोगराम </p>
+    <p xml:lang="kok@latin">GnuCash ek kariavoll khasgi ani lhan-ud'degachea vrutachea hixobachi</p>
+    <p xml:lang="kok">GnuCash ही खाजगी आणि ल्हान-व्यवसाय अर्थिक खात्याखातीर कार्यावळ आसा.</p>
+    <p xml:lang="brx">GnuCash आ निजि आरो फिसा-फालांगि राङारि-एकाउन्टिंनि मोनसे प्रग्राम।</p>
+    <p xml:lang="as">GnuCash হল ব্যক্তিগত আৰু ক্ষুদ্ৰ-ব্যৱসায় বিত্তীয়-গণনাৰ এটা কাৰ্যসূচী.</p>
+    <p xml:lang="ur">GnuCash ذاتی اور چھوٹے کاروبار کے مالی اکاؤنٹنگ کے لئے ایک پروگرام ہے.</p>
+    <p xml:lang="te">Gnuక్యాష్‌ అనేది వ్యక్తిగత మరియు చిన్న-వ్యాపార ఫైనాన్షియల్-అకౌంటింగ్ కోసం ఉద్దేశించిన కార్యక్రమం.</p>
+    <p xml:lang="ta">GnuCash என்பது தனிப்பட்ட மற்றும் சிறிய-வணிக நிதி-மேலாண்மைக்கான பிரோகிராம்.</p>
+    <p xml:lang="ru">GnuCash это программа для персонального учета финансов и ведения бухгалтерского учета для малого бизнеса.</p>
+    <p xml:lang="pt">O GnuCash é um programa para contabilidade pessoal e de pequenos negócios.</p>
+    <p xml:lang="mr">GnuCash हा वैयक्तिक व लघु-उद्योग आर्थिक-लेखांकनासाठी प्रोग्रॅम आहे.</p>
+    <p xml:lang="lv">GnuCash ir personīgo un mazā biznesa finanšu pārvaldības programma.</p>
+    <p xml:lang="kn">ಗ್ನುಕ್ಯಾಶ್ ಎನ್ನುವುದು ವೈಯಕ್ತಿಕ ಮತ್ತು ಸಣ್ಣ ಉದ್ಯಮದ ಹಣಕಾಸು-ಲೆಕ್ಕಪತ್ರಕ್ಕಾಗಿನ ಒಂದು ಪ್ರೊಗ್ರಾಮ್ ಆಗಿದೆ.</p>
+    <p xml:lang="it">GnuCash è un programma per la contibilità personale e di piccole imprese.</p>
+    <p xml:lang="hi">GnuCash व्यक्तिगत और लघु-व्यवसाय वित्तीय-लेखांकन के लिए एक प्रोग्राम है. </p>
+    <p xml:lang="es">GnuCash es un programa para la contabilidad financiera personal y pequeños negocios.</p>
+    <p xml:lang="de">GnuCash ist ein Buchhaltungsprogramm Privatpersonen und kleine Unternehmen.</p>
+    <p xml:lang="ar">جنوكاش هو برنامج للمحاسبة الشخصية و الأعمال التجارية الصغيرة</p>
+    <p xml:lang="zh_CN">GnuCash 是一个适用于个人与小企业财务管理的程序。</p>
+    <p xml:lang="uk">GnuCash — програма для фінансового обліку на особистому рівні і на рівні малого бізнесу.</p>
+    <p xml:lang="tr">GnuCash, kişisel ve küçük işletme finansal muhasebesi için bir programdır.</p>
+    <p xml:lang="sr">Гнуов новчић је програм финансијског рачуноводства за личну и употребу у малим пословањима.</p>
+    <p xml:lang="nl">GnuCash is boekhoudsoftware voor thuis en voor kleine ondernemingen.</p>
+    <p xml:lang="da">GnuCash er et program til finanshåndtering for personer og små virksomheder.</p>
+    <p xml:lang="ca">El GnuCash és un progrma per a comptabilitat financera personal o de petites empreses.</p>
+    <p>
+      Designed to be easy to use, yet powerful and flexible, GnuCash allows you to track bank accounts, stocks, income and expenses. As quick and intuitive to use as a checkbook register, it is based on professional accounting principles like double-entry
+      accounting to ensure balanced books and accurate reports.
+    </p>
+    <p xml:lang="mni@bengali">সিজিন্নবদা লায়বা, অদুবু অকনবা ওইবা অমসুং হোংদোক-হোংজিন য়াবা মওংদা সেম্লবা, GnuCashনা নহাকপু বেঙ্ক একাউন্তসিং, স্তোকসিং, ইনকম অমসুং চাদিংসিং ত্রেক তৌবা য়াহল্লি। য়াংনা অমসুং খুদক্তা পাংথোকপা ঙম্বা মরম্না চেকবুক রেজিস্তর অমগুম্না সিজিন্নবা য়ারবা, মসিনা বেলেন্স ওইরবা বুকসিং অমসুং চপ চাবা রিপোর্তসিং ফংহন্নবগীদমক মসি সিনফমগী ওইবা একাউন্তিং প্রিন্সিপলসিং হায়বদি দবল-এন্ত্রি একাউন্তিংগুম্বদা য়ুম্ফম ওইবনি।</p>
+    <p xml:lang="mni">ꯁꯤꯖꯤꯟꯅꯕꯗ ꯂꯥꯏꯅꯕ ꯗꯤꯖꯥꯏꯟ ꯇꯧꯕꯅꯤ, ꯍꯧꯖꯤꯛꯁꯨ ꯃꯄꯥꯡꯒꯜ ꯂꯩꯔꯤ ꯑꯃꯁꯨꯡ ꯐ꯭ꯂꯦꯛꯁꯤꯕꯜ ꯑꯣꯏꯔꯤ, GnuCash ꯅ ꯕꯦꯡꯛ ꯑꯦꯀꯥꯎꯟꯠꯁꯤꯡ, ꯁ꯭ꯇꯣꯛꯁꯤꯡ, ꯏꯀꯝ ꯑꯃꯁꯨ ꯆꯥꯗꯤꯡꯁꯤꯡ ꯇ꯭ꯔꯦꯛ ꯇꯧꯕ ꯌꯥꯍꯜꯂꯤ꯫ ꯆꯦꯛꯕꯨꯛ ꯔꯦꯖꯤꯁꯇꯔ ꯑꯃ ꯑꯣꯏꯅ ꯁꯤꯖꯤꯟꯅꯅꯕ ꯃꯁꯤ ꯌꯥꯝꯅ ꯊꯨꯕ ꯑꯃꯁꯨꯡ ꯈꯪꯅꯤꯡꯒꯟꯕ ꯑꯣꯏꯕꯅ ꯃꯁꯤ ꯈꯨꯗꯝ ꯑꯣꯏꯅ ꯕꯦꯂꯦꯟꯁ ꯕꯨꯛꯁꯤꯡ ꯑꯃꯁꯨꯡ ꯆꯞ-ꯆꯥꯕ ꯔꯤꯄꯣꯔꯠꯁꯤꯡ ꯄꯤꯅꯕ ꯗꯕꯜ-ꯑꯦꯟꯇ꯭ꯔꯤ ꯑꯦꯀꯥꯎꯟꯇꯤꯡ ꯑꯣꯏꯕ ꯄ꯭ꯔꯣꯐꯦꯁꯅꯦꯜ ꯑꯦꯀꯥꯎꯇꯤꯡ ꯄ꯭ꯔꯤꯟꯁꯤꯄꯜꯁꯤꯡꯗ ꯌꯨꯝꯐꯝ ꯑꯣꯏ꯫</p>
+    <p xml:lang="mai">उपयोग मे आसान, तइयो शक्तिशाली आओर लचीला तैआर कएल गेल GnuCash अहाँकेँ बैंक खाता, शेयर, आय आओर व्यय पर नजर राखए मे सक्षम बनाबैत अछि. त्वरित आओर चेकबुक रजिस्टर क रूपेँ उपयोग कलेल सहज ई सुविधा दोहरा-प्रविष्टि लेखांकन जहिना पेशेवर लेखांकन सिद्धांत पर आधारित अछि जे संतुलित लेखा-बही आओर सटीक रिपोर्ट तैआर कएनाइ सुनिश्चित करैत अछि. </p>
+    <p xml:lang="ks">डिज़ायिन करनॊ आमुत युथ ईसतेमाल करुन आसान गछ़ॊ, तोतॊ गछ़ॊ ताकतवर तॊ लचकदार आसुन,GnuCash छु तोहयॊ ईजाज़त दिवान टरेक करनस मनज़ बेनक एकावुनट, सिटाक,ईनकम तॊ खरॊच</p>
+    <p xml:lang="kok@latin">Sompeponnim vaprunk ankhlea, torui bollixtt ani bagovpi, GnuCash bank khatim, santthe, zodd ani khorch  topasunk porvangi dita. Rokddem ani somzupi vaprunk ek chekpustokachea nondpott'tte sarkhi, ti vevsaik hixobachea totvancher adarit asa zoxe porim doddttea nondnnechea hixob zulloilelim pustokam ani binchukiche vakeanchi khatri korunk</p>
+    <p xml:lang="kok">वापरपाक सोपे, तरीय शक्तिमान आणि लवचिक अशे तयार केल्ले, GnuCash तुमका बँक खाती, स्टॉक, उत्पन्न आणि खर्च हाचेर लक्ष दवरूंक दिता. चेकबुक नोंदवही म्हण वापरपाक ते सोपे आसा आणि डबल एंट्री अकौन्टिंगसारकिल्या व्यावसायिक अकौन्टिंग तत्त्वांचेर ते आदारित आसा जाकालागून समतोल हिशोब आणि अचूक अहवाल हांची खात्री मेळटा.</p>
+    <p xml:lang="brx">गोरलैयै बाहायनो डिजाइन खालामनाय जायो, थेवबो गोहोगोरा आरो रुयदब, GnuCash आ नोंथांखौ अरायबो बेंक एकाउन्ट, स्टक, आय आरो खरसाखौ ट्रेक खालामनो गनायथि होयो। गोख्रै आरो हरखाब बुजिखांनाय महरै, आनजाद-बाक्सु रेजिस्टार महरै बाहायनो, बेयो फालांगियारि एकाउन्टिं खान्थियाव सोनारनाय जेरै-बेलेन्सगोनां बुक(बिजाब) आरो गेबें रिपर्टखौ रोखा खालामनो मोननै-हाबहोनाय एकाउन्टिं।</p>
+    <p xml:lang="as">ব্যৱহাৰৰ সুবিধাৰ্থে আৰ্হি কৰিছে, এতিয়াও শক্তিশালী আৰু সংকুচিত-প্ৰসাৰিত, GnuCash য়ে আপোনাক বেংক একাউন্টবোৰ, ষ্টকবোৰ, আয় আৰু ব্যয়বোৰৰ হিচাপ ৰাখিবলৈ অনুমতি দিয়ে. এটা পৰীক্ষা বহীৰ পঞ্জীয়নৰ দৰে ব্যৱহাৰ কৰিবলৈ ক্ষিপ্ৰ আৰু সহজে বুজি পোৱা, এইটো পৰিমাণৰ কিতাপবোৰ আৰু সঠিক ৰিপোৰ্টবোৰ নিশ্চিত কৰিবলৈ দ্বিগুণ-প্ৰৱিষ্টি গণনাটোৰ দৰে দক্ষ গণনাৰ নীতিবোৰৰ ওপৰত আধাৰিত.</p>
+    <p xml:lang="ur">ایسا ڈیزائن كیا گیا ہے كہ  استعمال کرنا آسان ہے، ابھی تک طاقتور اور لچکدار ہے ، GnuCash آپ کے بینک اکاؤنٹس، اسٹاکس، آمدنی اور اخراجات پر نظر رکھنے کے لئے اجازت دیتا ہے. چیك بُك رجسٹر كے طور پر استعمال كرنے كے لئے كوئك اور انشیوٹیو ہے  یہ پیشہ ورانہ اکاؤنٹنگ اصولوں پر مبنی ہے. جیسے  ڈبل انٹری اکاؤنٹنگ بیلنس بُكس اور اكیورٹ رپورٹس یقینی بنانے كےلیے۔</p>
+    <p xml:lang="te">ఉపయోగించడానికి సులభమైనది అయినప్పటికీ, శక్తివంతంగా, సర్దుకుపోయేదిగా రూపొందించబడిన Gnuక్యాష్ బ్యాంకు ఖాతాలు, స్టాకులు, రాబడి మరియు ఖర్చులను గుర్తు పెట్టేందుకు మిమ్మల్ని అనుమతిస్తుంది. చెక్ బాక్స్ రిజిష్టర్‌గా ఉపయోగించడానికి త్వరిత గతి సహజ జ్ఞానం కలిగినదిగా ఉండడంతో అది బ్యాలెన్స్ పుస్తకాలు, ఖచ్చితమైన నివేదికలు ఉండేలా చూసోందుకు డబుల్ ఎంట్రీ అకౌంటింగ్ లాంటి వ్యక్తిగత వృత్తినైపుణ్య అకౌంటింగ్ సూత్రాల మీద ఆధారపడుతుంది. </p>
+    <p xml:lang="ta">பயன்படுத்த எளிதாக இருந்தும், சக்தி வாய்ந்ததாக மற்றும் சாதகமானதாக வடிவமைக்கப்பட்டுள்ளதால், GnuCash நீங்கள் வங்கி கணக்குகள், பங்குகள், வருமானம் மற்றும் செலவுகளை கண்காணிக்க அனுமதிக்கிறது. ஒரு காசோலை பதிவேட்டாக பயன்படுத்த விரைவானதாக மற்றும் உள்ளுணர்வுடன் இருப்பதால், இது சரியான இருப்பு புத்தகங்கள் மற்றும் துல்லியமான அறிக்கைகளை உறுதி செய்ய இரட்டை-பதிவு கணக்கியல் போன்ற தொழில்முறை கணக்கியல் கொள்கைகளை அடிப்படையாக கொண்டுள்ளது.</p>
+    <p xml:lang="ru">Спроектированная чтобы быть простой, но в то же время мощной и гибкой в использовании, GnuCash позволяет вам вести учёт ваших банковских счетов, акций, доходов и расходов. Будучи такой же удобной и интуитивной как чековая книжка, она основана на профессиональных принципах ведения бухгалтерии, таких как использование двойной записи для исключения ситуации расхождения счетов и создания точных отчётов.</p>
+    <p xml:lang="pt">Desenhado para ser fácil de usar mas também poderoso e flexível, o GnuCash permite-lhe controlar contas bancárias, acções, receitas e despesas. Tão fácil e intuitivo de usar como uma folha de livro de cheques, é baseado em princípios contabilísticos profissionais, tais como a contabilidade de dupla entrada, para garantir livros saldados e relatórios precisos.</p>
+    <p xml:lang="mr">वापरण्यास अतिशय सोपे, तरीही प्रभावी व लवचिक अशा पद्धतीने रचना करण्यात आलेल्या GnuCash मुळे तुम्ही बँक खाती, समभाग, उत्पन्न व खर्चाचा आढावा घेता येतो. याचा तपासणीपुस्तक नोंदवहीच्या स्वरुपात झटपट व नाविन्यपूर्ण उपयोग करता येतो, ते दुहेरी-नोंद लेखांकन यासारख्या व्यवसायिक लेखांकनाच्या तत्वांवर आधारित आहेत ज्याद्वारे चोख ताळेबंद असलेल्या पुस्तकांची व अचूक अहवालांची खात्री केली जाते.</p>
+    <p xml:lang="lv">Izstrādāts, lai būtu viegli lietojams un tajā pat laikā jaudīgs un elastīgs, GnuCash ļauj jums saglabāt kontus, ieņēmumus, izdevumus un akcijas. Lai arī to var izmantot kā vienkāršu izdevumu uzskaiti, tas ir balstīts uz profesionāliem grāmatvedības principiem, kā divkāršais ieraksts, nodrošinot bilanci un precīzus pārskatus.</p>
+    <p xml:lang="kn">ಬಳಕೆಗೆ ಸುಲಭವಾದ, ಆದರೆ ಅಷ್ಟೇ ಸಶಕ್ತ ಮತ್ತು ಸುಲಭವಾಗಿ ಹೊಂದಿಕೆಯಾಗುವಂತೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ಗ್ನುಕ್ಯಾಶ್ ಬಳಸಿಕೊಂಡು ನೀವು ಬ್ಯಾಂಕ್ ಖಾತೆಗಳನ್ನು, ಸ್ಟಾಕ್‌ಗಳನ್ನು, ಆದಾಯ ಮತ್ತು ವೆಚ್ಚಗಳ ಮೇಲ್ವಿಚಾರಣೆ ನಡೆಸಲು ಅವಕಾಶವಿರುತ್ತದೆ. ಬ್ಯಾಲೆನ್ಸ್ ಆದ ಪುಸ್ತಕಗಳು ಮತ್ತು ನಿಖರವಾದ ವರದಿಗಳು ದೊರೆಯುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಒಂದು ಚೆಕ್‌ಬುಕ್ ರಿಜಿಸ್ಟರ್‌ನಂತೆ ಚುರುಕಾಗಿ ಮತ್ತು ಸುಲಭವಾಗಿ ಬಳಸಬಹುದಾಗಿರುವ ಇದು ಡಬಲ್-ಎಂಟ್ರಿ ಅಕೌಂಟಿಂಗ್‌ನಂತರ ವೃತ್ತಿಪರ ಅಕೌಂಟಿಗ್ ನಿಯಮಗಳ ಮೇಲೆ ಆಧರಿತವಾಗಿರುತ್ತದೆ.</p>
+    <p xml:lang="it">Progettato per essere di semplice utilizzo, ma comunque potente e flessibile, GnuCash permette di tenere traccia dei conti bancari, delle azioni, delle entrate e delle uscite. Intuitivo nell'utilizzo come il libretto degli assegni, si basa sui principi fondamentali della contabilità per garantire il bilancio dei conti e l'accuratezza dei resoconti.</p>
+    <p xml:lang="hi">उपयोग में आसान, फिर भी शक्तिशाली और लचीले रूप में तैयार किया गया GnuCash आपको बैंक खातों, शेयरों, आय और व्यय पर नजर रखने में सक्षम बनाता है. त्वरित और चेकबुक रजिस्टर के रूप में उपयोग के लिए सहज यह सुविधा दोहरी-प्रविष्टि लेखांकन जैसे पेशेवर लेखांकन सिद्धांतों पर आधारित है जो संतुलित लेखा-बही और सटीक रिपोर्ट तैयार करना सुनिश्चित करती है. </p>
+    <p xml:lang="es">Diseñado para ser fácil de emplear, pero potente y flexible, GnuCash permite rastrear cuentas bancarias, reservas, ingresos y gastos. Tan rápido e intuitivo para emplear como un registro de comprobación, está basado en los principios profesionales de contabilidad como asientos dobles para asegurar los balances de libros y boletines detallados.</p>
+    <p xml:lang="de">Enworfen, um einfach im Gebrauch zu sein, aber mächtig und flexibel, erlaubt GnuCash Ihnen den Überblick über Ihre Bankkonten wie Wertpapiere, Einkünte wie Aufwendungen zu behalten. So intuitiv und schnell zu benutzen  wie ein Scheckbuchregister basiert es auf professionellen Prinzipien wie der doppelten Buchführung um ausgeglichene Bücher und präzise Berichte zu gewährleisten.</p>
+    <p xml:lang="ar">مصمم ليكون سهل الاستخدام، لكنه قوي ومرن، جنوكاش يسمح لك بتتبع الحسابات المصرفية والأسهم والإيرادات والمصروفات. وطريقة سريعة وبديهية لاستخدام دفتر الشيكات، لأنه يقوم على مبادئ المحاسبة المهنية مثل محاسبة القيد المزدوج لضمان الدفاتر المتوازنة والتقارير الدقيقة.</p>
+    <p xml:lang="zh_CN">GnuCash 易于使用，功能强大且灵活，可让您跟踪银行账户、股票，以及收入与支出。作为支票登记簿，它使用起来既快速又直观。它基于专业的会计原则，如复式记账，以确保账簿收支平衡，报告准确无误。</p>
+    <p xml:lang="uk">Програму створено простою у користуванні або потужною і гнучкою. Тому GnuCash надає вам змогу стежити за станом банківських рахунків, курсом акцій, прибутками і витратами. Швидка та інтуїтивно зрозуміла як чекова книжка, програма заснована на принципах професійного обліку, вона веде подвійний запис для забезпечення балансу у книгах та здатна формувати точні звіти.</p>
+    <p xml:lang="tr">Kullanımı kolay, aynı zamanda güçlü ve esnek olacak şekilde tasarlanmış olan GnuCash, banka hesaplarını, hisse senetlerini, gelir ve giderleri izlemenize olanak tanır. Çek defteri kaydı olarak hızlı ve sezgisel olarak, dengeli kitapların ve doğru raporların sağlanması için çift giriş muhasebesi gibi mesleki muhasebe ilkelerine dayanır.</p>
+    <p xml:lang="sr">Осмишљен да буде једноставан за коришћење, али моћан и прилагодљив, Гнуов новчић вам омогућава праћење банковних рачуна, деоница, прихода и расхода. Како је брз и интуитиван за коришћење као регистар чековне књижице, заснива се на професионалним рачуноводственим начелима као што је двојно књиговодство да би осигурао књиге биланса и тачне извештаје.</p>
+    <p xml:lang="nl">GnuCash stelt u in staat om heel eenvoudig bankrekeningen, beleggingen, inkomsten en uitgaven bij te houden, zonder in te leveren op kracht of flexibiliteit. Net zo snel en intuïtief te gebruiken als een dagboek, maar gestoeld op boekhoudkundige principes om te zorgen voor een sluitende boekhouding en accurate rapporten.</p>
+    <p xml:lang="fa">گنوکش که برای سهولتِ استفاده در عین قدرت و انعطاف‌پذیری طراحی شده است، تو را قادر می‌سازد حساب‌های بانکی، سهام، درآمدها و هزینه‌هایت را پیگیری کنی. به همان سرعت و قابل درک بودنِ کاربردِ ثبت‌کننده دفترچه چک، برای اطمینان از دفترهای تراز و گزارش‌های دقیق بر پایه قواعد حسابداری حرفه‌ای از جمله حسابداری دوطرفه بنا شده است.</p>
+    <p xml:lang="ca">Dissenyat per ser fàcil d'usar, però tot i així potent i flexible, el GnuCash us permet fer un seguiment de comptes bancaris, accions, ingressos i despeses. Tan ràpid i intuïtiu d'usar com un registre de xecs, està basat en principis comptables professionals com ara la comptabilitat per partida doble per assegurar llibres balancejats i informes exactes.</p>
+    <p>With GnuCash you can (but are not limited to):</p>
+    <p xml:lang="mni@bengali">GnuCashগা লোয়ননা নহাক্না ঙমগনি (অদুবু অকক্নবা মওংদা নত্তে):</p>
+    <p xml:lang="mni">GnuCash ꯇꯧꯗꯨꯅ ꯑꯗꯣꯝꯅ ꯇꯧꯕ ꯉꯝꯒꯅꯤ (ꯑꯗꯨꯕꯨ ꯄꯪꯈꯩ ꯂꯩꯇꯦ):</p>
+    <p xml:lang="mai">GnuCash क सँग अहाँ ई सब कए सकैत छी (मुदा एतय धरि सीमित नहि अछि):</p>
+    <p xml:lang="ks">GnuCashस सॊत हेकिव तोहयॊ ( मगर छॊ नॊ हदस मनज़):</p>
+    <p xml:lang="kok@latin">GnuCasha vorvim tujean (punn hachea porian moriadit)</p>
+    <p xml:lang="kok">GnuCash संयत तुमी (पुण मेरेन मर्यादित ना):</p>
+    <p xml:lang="brx">GnuCashजों नोंथाङा हायो (नाथाय सिमागोनां नङा):</p>
+    <p xml:lang="as">GnuCash ৰ সৈতে আপুনি পাৰে (কিন্তু সীমিত কৰা নহয়):</p>
+    <p xml:lang="ur">GnuCash کے ساتھ آپ (لیکن تک محدود نہیں ) کر سکتے ہیں:</p>
+    <p xml:lang="te">Gnuక్యాష్‌తో మీరు చేయగలరు (కానీ దీనికి పరిమితం కాదు):</p>
+    <p xml:lang="ta">GnuCash-உடன் நீங்கள் செய்யமுடிவது (ஆனால் அவை மட்டுமே வரம்பாக இல்லை):</p>
+    <p xml:lang="ru">Вот неполный список того, что вы можете делать при помощи GnuCash:</p>
+    <p xml:lang="pt">Com o GnuCash pode(sem estar limitado a):</p>
+    <p xml:lang="mr">GnuCash द्वारे तुम्ही पुढील बाबी करु शकतात (मात्र त्यापुरते मर्यादित नाही):</p>
+    <p xml:lang="lv">Ar GnuCash jūs varat (un ne tikai):</p>
+    <p xml:lang="kn">ಗ್ನುಕ್ಯಾಶ್ ಬಳಸಿಕೊಂಡು ನೀವು (ಇಷ್ಟಕ್ಕೆ ಮಿತಿಯಾಗಿರುವುದಿಲ್ಲ):</p>
+    <p xml:lang="it">Con GnuCash è possibile:</p>
+    <p xml:lang="hi">GnuCash के साथ आप यह सब कर सकते हैं (लेकिन यहीं तक सीमित नहीं है):</p>
+    <p xml:lang="es">Con GnuCash puede (pero está liminato):</p>
+    <p xml:lang="de">Mit GnuCash können Sie neben Anderem:</p>
+    <p xml:lang="ar">مع جنوكاش يمكنك (ولكن لا تقتصر على):</p>
+    <p xml:lang="zh_CN">借助 GnuCash，您可以做到（但不限于）：</p>
+    <p xml:lang="uk">За допомогою GnuCash ви можете робити такі речі (і не лише такі речі):</p>
+    <p xml:lang="tr">GnuCash ile şunları yapabilirsiniz (ancak bunlarla sınırlı değildir):</p>
+    <p xml:lang="sr">Са Гнуовим новчићем можете да (али нисте ограничени):</p>
+    <p xml:lang="nl">Met GnuCash kunt u (maar bent u niet beperkt tot):</p>
+    <p xml:lang="fa">با گنوکش می‌توانی (البته به آنها محدود نیستی):</p>
+    <p xml:lang="da">Med GnuCash kan du (men er ikke begrænset til):</p>
+    <p xml:lang="ca">Amb el GnuCash podeu (però no esteu limitats a):</p>
+    <ul>
+      <li>Keep track of your day to day personal income and expenses</li>
+      <li xml:lang="mni@bengali">নহাক্কী নুমিৎ খুদিংগী ওইবা নসাগী ইনকম অমসুং চাদিংসিং ত্রেক তৌ</li>
+      <li xml:lang="mni">ꯑꯗꯣꯝꯒꯤ ꯅꯣꯡꯃ ꯃꯣꯡꯃꯒꯤ ꯅꯁꯥꯒꯤ ꯏꯟꯀꯝ ꯑꯃꯁꯨꯡ ꯆꯥꯗꯤꯡ ꯇ꯭ꯔꯦꯛ ꯇꯧꯕꯤꯌꯨ</li>
+      <li xml:lang="mai">अपन रोजमर्रा क व्यक्तिगत आय आओर व्यय पर नज़र राखू</li>
+      <li xml:lang="ks">खयाल थॊयिव पननॊन दोह दॊश कॊन ज़ॊती आमदन तॊ खरचस</li>
+      <li xml:lang="kok@latin">Tujea dispott'ttea khasgi zodd ani khorchacho hixob dhor</li>
+      <li xml:lang="kok">दर दिसाच्या तुमच्या खाजगी कमाई आणि खर्चार ट्रॅक दवरात</li>
+      <li xml:lang="brx">नोंथांनि सानफ्रोमबोनि निजि आय आरो खरसानि हिसाबखौ दोन</li>
+      <li xml:lang="as">আপোনাৰ প্ৰত্যেক দিনৰ আয় আৰু ব্যয়বোৰৰ হিচাপ ৰাখক</li>
+      <li xml:lang="ur">آپ كے دن بہ دن كی ذاتی آمدنی اور اخراجات كو یاد رکھیں</li>
+      <li xml:lang="te">మీ రోజు వారీ వ్యక్తిగత రాబడి, ఖర్చుల జాడను గుర్తు పెట్టు. </li>
+      <li xml:lang="ta">உங்கள் தினசரி தனிநபர் வருமானம் மற்றும் செலவுகளை கண்காணிக்கலாம்</li>
+      <li xml:lang="ru">Отслеживать ваши ежедневные доходы и расходы </li>
+      <li xml:lang="pt">seguir diariamente as suas receitas e despesas pessoais</li>
+      <li xml:lang="mr">तुमचे दैनंदिन उत्पन्न व खर्चांवर लक्ष ठेवणे</li>
+      <li xml:lang="lv">Uzskaitīt jūsu ikdienas ieņēmumus un izdevumus</li>
+      <li xml:lang="kn">ನಿಮ್ಮ ದೈನಂದಿನ ವೈಯಕ್ತಿಕ ಆದಾಯ ಮತ್ತು ವೆಚ್ಚಗಳ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳಬಹುದು</li>
+      <li xml:lang="it">tenere traccia dei propri movimenti finanziari quotidiani in entrata ed in uscita;</li>
+      <li xml:lang="hi">अपनी रोजमर्रा की व्यक्तिगत आय और व्यय पर नज़र रखें</li>
+      <li xml:lang="es">Conservar seguimiento diario de ingresos y gastos personales</li>
+      <li xml:lang="de">Die Übersicht über Ihre täglichen persönlichen Einnahmen und Ausgaben bewahren</li>
+      <li xml:lang="ar">تعقب الدخل الشخصي يوما بعد يوم والنفقات الخاصة بك</li>
+      <li xml:lang="zh_CN">追踪您的日常个人收入和支出</li>
+      <li xml:lang="uk">Стежити за щоденними особистими надходженнями і витратами</li>
+      <li xml:lang="tr">Günlük kişisel gelir ve harcamalarınızı takip edin</li>
+      <li xml:lang="sr">Пратите ваше дневне приходе и расходе</li>
+      <li xml:lang="nl">uw persoonlijke inkomsten en uitgaven van dag tot dag volgen</li>
+      <li xml:lang="fa">درآمد و هزینه‌های شخصی روزانه خود را پیگیری کنی</li>
+      <li xml:lang="da">Holde styr på dine indtæger og udgifter</li>
+      <li xml:lang="ca">Feu un seguiment del dia a dia dels vostres ingressos i despeses</li>
+      <li>Manage your stock, bond and mutual fund accounts with ease</li>
+      <li xml:lang="mni@bengali">নহাক্কী স্তোক, বোন্দ অমসুং ম্যুচুএল ফন্দ একাউন্তসিং লায়না মেনেজ তৌ</li>
+      <li xml:lang="mni">ꯑꯗꯣꯝꯒꯤ ꯁ꯭ꯇꯣꯛ, ꯕꯣꯟꯗ ꯑꯃꯁꯨꯡ ꯃꯤꯎꯆꯨꯌꯦꯜ ꯐꯟꯗ ꯑꯦꯀꯥꯎꯟꯠꯁꯤꯡ ꯂꯥꯏꯅ ꯁꯤꯜꯂꯥꯡꯎ</li>
+      <li xml:lang="mai">अपन शेयर, बांड आओर म्यूचुअल फंड खाता केँ सरलता सँ प्रबंधित करू</li>
+      <li xml:lang="ks">पनॊन सिटाक, बानड तॊ मयूचवल फनड एकावनटन कॊरिव मनेज आसॊनी सान</li>
+      <li xml:lang="kok@latin">Tuje santthe, homipotram ani mutual nidhichim khatim sompeponnim hatall</li>
+      <li xml:lang="kok">तुमची स्टॉक, बॉन्ड आणि म्यूच्यूअल फंड खात्यांचे सहज व्यवस्थापन करात.</li>
+      <li xml:lang="brx">नोंथांनि स्टक, बन्ड आरो मिउसुआल फान्ड एकाउन्टखौ गोरलैयै मेनेज खालाम</li>
+      <li xml:lang="as">আৰামেৰে আপোনাৰ ষ্টক, বণ্ড আৰু মিচুৱেল পুঁজিৰ একাউন্টবোৰ পৰিচালনা কৰক</li>
+      <li xml:lang="ur">آپ كے  اسٹاک، بانڈ اور باہمی فنڈ  اکاؤنٹس مینج كریں</li>
+      <li xml:lang="te">మీ స్టాకు, బాండ్, మ్యూచువల్ ఫండ్ ఖాతాలను సులభంగా నిర్వహించు</li>
+      <li xml:lang="ta">உங்கள் பங்குகள், மியூசுவல் ஃபன்ட் கணக்குகளை எளிதாக நிர்வகிக்கலாம்</li>
+      <li xml:lang="ru">С легкостью вести учёт ваших акций, облигаций и взаимных фондов</li>
+      <li xml:lang="pt">fazer a gestão de acções, obrigações e fundos facilmente</li>
+      <li xml:lang="mr">तुमचे समभाग, रोखे व म्युच्युअल फंड खात्यांचे सहजपणे व्यवस्थापन करणे</li>
+      <li xml:lang="lv">Ērti pārvaldīt akcijas un vērtspapīrus</li>
+      <li xml:lang="kn">ನಿಮ್ಮ ಸ್ಟಾಕ್‌, ಬಾಂಡ್ ಮತ್ತು ಮ್ಯುಚವಲ್‌ ಫಂಡ್ ಖಾತೆಗಳನ್ನು ಸುಲಭವಾಗಿ ನೋಡಿಕೊಳ್ಳಬಹುದು</li>
+      <li xml:lang="it">gestire con facilità i propri conti per i fondi comuni, per gli investimenti e per le azioni;</li>
+      <li xml:lang="hi">अपने शेयर, बांड और म्यूचुअल फंड खातों को सरलता से प्रबंधित करें</li>
+      <li xml:lang="es">Gestiona sus cuentas de reservas, depósitos y fondos de inversión con facilidad</li>
+      <li xml:lang="de">Mit Leichtigkeit ihre Renten, Aktien und Fonds verwalten</li>
+      <li xml:lang="ar">إدارة الأسهم والسندات وحسابات صناديق الاستثمار بسهولة</li>
+      <li xml:lang="zh_CN">轻松管理您的股票，债券以及共同基金账户</li>
+      <li xml:lang="uk">Без проблем керувати вашими акціями, облігаціями та рахунками інвестиційних фондів</li>
+      <li xml:lang="tr">Hisse senedi, tahvil ve yatırım fonu hesaplarınızı kolaylıkla yönetin</li>
+      <li xml:lang="sr">Управљајте са лакоћом налозима ваших деоница, обвезница и инвестиционог фонда</li>
+      <li xml:lang="nl">uw aandelen, obligaties en beleggingsfondsen eenvoudig beheren</li>
+      <li xml:lang="fa">سهام، اوراق قرضه و حساب‌های صندوق‌های سرمایه‌گذاری مشترک را به آسانی مدیریت کنی</li>
+      <li xml:lang="da">Håndtere dine aktier, obligationer og investeringsbeviser</li>
+      <li xml:lang="ca">Gestioneu el vostres comptes de fons d'accions, obligacions o inversions amb facilitat</li>
+      <li>Keep your small business' accounting up to date</li>
+      <li xml:lang="mni@bengali">নহাক্কী অপীকপা ব্যুজিনেসকী একাউন্ত সেম্বদু অপ তু দেত ওইহল্লু</li>
+      <li xml:lang="mni">ꯑꯗꯣꯝꯒꯤ ꯑꯄꯤꯛꯄ ꯂꯂꯣꯟ-ꯏꯇꯤꯛꯀꯤ ꯑꯦꯀꯥꯎꯟꯇꯤꯡ ꯑꯞ ꯇꯨ ꯗꯦꯠ ꯑꯣꯏꯅ ꯊꯝꯕꯤꯌꯨ</li>
+      <li xml:lang="mai">अपन लघु व्यवसाय क लेखांकन केँ अप टू डेट राखू</li>
+      <li xml:lang="ks">पनॊन सुमाल बिज़नस एकावनटिनग थॊयिव अप टु डेट</li>
+      <li xml:lang="kok@latin">Tuje lhan vepari hixob aichea tarkhent dovor</li>
+      <li xml:lang="kok">तुमच्या व्यवसायाचे खाते अप टू डेट दवरात</li>
+      <li xml:lang="brx">नोंथांनि फालांगिनि एताउन्टिंखौ गोदानै दोन</li>
+      <li xml:lang="as">আপোনাৰ ক্ষুদ্ৰ ব্যৱসায়ৰ হিচাবটো আপ টু ডেট কৰি ৰাখক</li>
+      <li xml:lang="ur">آپ کے چھوٹے کاروبار كی اكاؤنٹنگ اپ ٹو ڈیٹ  'رکھیں</li>
+      <li xml:lang="te">మీ చిన్న వ్యాపారం యొక్క అకౌంటింగ్‌ను ఈ తేదీ వరకు నిర్వహించు</li>
+      <li xml:lang="ta">உங்கள் சிறு-வணிகத்தை கணக்கீடை நவீனமானதாக வைத்துக்கொள்ளலாம்</li>
+      <li xml:lang="ru">Поддерживать бухгалтерию вашего малого бизнеса в актуальном состоянии</li>
+      <li xml:lang="pt">manter a sua contabilidade de negócios actualizada</li>
+      <li xml:lang="mr">तुमच्या लहान व्यवसायाचे लेखांकन अद्ययावत ठेवणे</li>
+      <li xml:lang="lv">Uzturiet savu mazo biznesu aktuālu</li>
+      <li xml:lang="kn">ನಿಮ್ಮ ಸಣ್ಣ ಉದ್ಯಮದ ಹಣಕಾಸು ಲೆಕ್ಕಗಳನ್ನು ಅಪ್‌ ಟು ಡೇಟ್ ಆಗಿ ಇರಿಸಿಕೊಳ್ಳಬಹುದು</li>
+      <li xml:lang="it">mantenere aggiornata la contabilità della propria attività;</li>
+      <li xml:lang="hi">अपने लघु व्यवसाय के लेखांकन को अप टू डेट रखें</li>
+      <li xml:lang="es">Conserve su contabilidad de los pequeños negocios al día</li>
+      <li xml:lang="de">Ihre kleine Geschäftsbuchhaltung auf dem Laufenden halten</li>
+      <li xml:lang="ar">تتبع المحاسبة  الخاصة باعمالك التجارية و تحديثها يوميا</li>
+      <li xml:lang="zh_CN">保证您的小型企业账务永不落后</li>
+      <li xml:lang="uk">Вести поточний облік фінансових аспектів вашого малого бізнесу</li>
+      <li xml:lang="tr">Küçük işletmelerinizin muhasebesini güncel tutun</li>
+      <li xml:lang="sr">Одржавате ваше мало пословно рачуноводство</li>
+      <li xml:lang="nl">de boekhouding van uw kleine onderneming bijhouden</li>
+      <li xml:lang="fa">حسابداری کسب و کار کوچک خود را بروز نگه داری</li>
+      <li xml:lang="da">Holde din bogføring for den mindre virksomhed opdateret</li>
+      <li xml:lang="ca">Mantingueu la comptabilitat de la vostra petita empreas actualitzada</li>
+      <li>Create accurate reports and graphs from your financial data</li>
+      <li xml:lang="mni@bengali">নহাক্কী ফাইনান্সিএল দেতাদগী চপ চাবা রিপোর্তসিং অমসুং গ্রাফসিং সেম্মু</li>
+      <li xml:lang="mni">ꯑꯗꯣꯝꯒꯤ ꯐꯥꯏꯅꯥꯟꯁꯤꯌꯦꯜ ꯗꯥꯇꯥꯗꯒꯤ ꯆꯞ ꯆꯥꯕ ꯔꯤꯄꯣꯔꯠ ꯑꯃꯁꯨꯡ ꯒ꯭ꯔꯥꯐꯁꯤꯡ ꯁꯦꯝꯒꯠꯂꯣ</li>
+      <li xml:lang="mai">अपन वित्तीय डेटा सँ सटीक रिपोर्ट आओर ग्राफ बनाबू</li>
+      <li xml:lang="ks">बनॊयिव सही रिपोट तॊ गराफ पननॊ फायनानशल डाटा पयॊठ</li>
+      <li xml:lang="kok@latin">Binchukiche vake ani alekh tujea arthik mhaite pasun roch</li>
+      <li xml:lang="kok">तुमच्या अर्थिक डेटातल्यान अचूक अहवाल आणि ग्राफ्स तयार करात </li>
+      <li xml:lang="brx">गेबें रिपर्ट आरो ग्राफ्सखौ नोंथांनि राङारि डाटा निफ्राय सोरजि</li>
+      <li xml:lang="as">আপোনাৰ বিত্তীয় ডাটাৰ পৰা সঠিক ৰিপোৰ্ট আৰু লেখবোৰ তৈয়াৰ কৰক</li>
+      <li xml:lang="ur">آپ کے مالی اعداد و شمار سے رپورٹیں اور گرافس بنائیں</li>
+      <li xml:lang="te">మీ ఆర్థిక డేటా నుంచి ఖచ్చితమైన నివేదికలు, గ్రాఫ్‌లను రూపొందించు</li>
+      <li xml:lang="ta">உங்கள் நிதி தரவில் இருந்து துல்லியமான அறிக்கைகள் மற்றும் வரைபடங்களை உருவாக்கலாம்</li>
+      <li xml:lang="ru">Создавать точные отчеты и графики на основе ваших финансовых данных</li>
+      <li xml:lang="pt">criar relatórios e gráficos precisos dos seus dados financeiros</li>
+      <li xml:lang="mr">तुमच्या आर्थिक माहितीमधून अचूक अहवाल व आलेख तयार करणे</li>
+      <li xml:lang="lv">Izveidot precīzus pārskatus un grafikus saviem finanšu datiem</li>
+      <li xml:lang="kn">ನಿಮ್ಮ ಹಣಕಾಸು ಮಾಹಿತಿಯಿಂದ ನಿಖರವಾದ ವರದಿಗಳು ಮತ್ತು ನಕ್ಷೆಗಳನ್ನು ರಚಿಸಬಹುದು</li>
+      <li xml:lang="it">creare dei resoconti e dei grafici accurati dai propri dati finanziari;</li>
+      <li xml:lang="hi">अपने वित्तीय डेटा से सटीक रिपोर्ट और ग्राफ बनाएं</li>
+      <li xml:lang="es">Crea boletines precisos y gráficas desde sus datos financieros</li>
+      <li xml:lang="de">Präzise Berichte ind Grafiken ihrer Finanzdaten erzeugen</li>
+      <li xml:lang="ar">إنشاء تقارير دقيقة و رسوم البيانية من البيانات المالية</li>
+      <li xml:lang="zh_CN">依照财务数据创建精确的报告与图表</li>
+      <li xml:lang="uk">Створювати точні звіти та графіки на основі ваших фінансових даних</li>
+      <li xml:lang="tr">Finansal verilerinizden doğru raporlar ve grafikler oluşturun</li>
+      <li xml:lang="sr">Направите тачне извештаје и графике из ваших финансијских података</li>
+      <li xml:lang="nl">accurate rapporten en grafieken maken van uw financiële gegevens</li>
+      <li xml:lang="fa">از داده‌های مالی خود گزارش‌ها و نمودارهای دقیق تهیه کنی</li>
+      <li xml:lang="da">Oprette præcise rapporter og grafer over dine financielle data</li>
+      <li xml:lang="ca">Creeu informes i gràfiques exactes a partir de les vostres dades financeres</li>
+      <li>Set up scheduled transactions to avoid repeated data entry</li>
+      <li xml:lang="mni@bengali">দেতা এন্ত্রি হঞ্জিন্না তৌদনবগীদমক সেদ্যুল লেপ্লবা ত্রাঞ্জেক্সনসিং সেত অপ তৌ</li>
+      <li xml:lang="mni">ꯗꯥꯇꯥ ꯍꯟꯖꯤꯟꯅ ꯆꯪꯁꯤꯟꯗꯅꯕ ꯁꯦꯗꯤꯎꯜ ꯇꯧꯔꯕ ꯇ꯭ꯔꯥꯟꯁꯦꯛꯁꯟꯁꯤꯡ ꯁꯦꯠ ꯑꯞ ꯇꯧꯔꯣ</li>
+      <li xml:lang="mai">डेटा प्रविष्टि क दोहराव सँ बचए कलेल निर्धारित लेनदेन सेट करू</li>
+      <li xml:lang="ks">सेट अप कॊरिव शडूलॊड टरानज़ेकशन यक तरफ तरावनॊ बापत दोहरावनॊ आमॊच़ डाटा एनटरी</li>
+      <li xml:lang="kok@latin">Tharavik vevhar bosoi portun portun mhaitechi nond tallunk</li>
+      <li xml:lang="kok">थारायिल्ले व्यवहार कसल्योय परत परत डेटा नोंदी टाळपाखातीर थारायात.</li>
+      <li xml:lang="brx">गलेगले डाटा हाबहोनायखौ नागारनो फारिलाइ खालामखानाय लेनदेनखौ सेट आप खालाम</li>
+      <li xml:lang="as">ডাটা প্ৰৱিষ্টিৰ পুনৰাবৃত্তিটো আওকাণ কৰিবলৈ নিৰ্ধাৰিত লেনদেনবোৰ ছেট আপ কৰক</li>
+      <li xml:lang="ur">بار بار ڈاٹا انٹری سے بچنے کے لئے شیڈول کے مطابق لین دین مقرر کریں</li>
+      <li xml:lang="te">తిరిగి చేసే డేటా ఎంట్రీని నివారించడానికి షెడ్యూల్ చేసిన లావాదేవీలను ఏర్పాటు చేయి</li>
+      <li xml:lang="ta">மீண்டும் தரவு உள்ளீடை தவிர்க்க திட்டமிடப்பட்ட பரிமாற்றங்களை அமைக்கவும்</li>
+      <li xml:lang="ru">Настроить плановые проводки для упрощения повторяющихся трат</li>
+      <li xml:lang="pt">preparar transacções agendadas para evitar inserir dados repetidos</li>
+      <li xml:lang="mr">माहिती नोंदीची पुनरावृत्ती टाळण्यासाठी अनुसूचित व्यवहार निश्चित करा</li>
+      <li xml:lang="lv">Iestatiet plānotos grāmatojumus, lai novērstu atkārtotu datu ievadi</li>
+      <li xml:lang="kn">ಪುನರಾವರ್ತಿತ ದತ್ತಾಂಶ ನಮೂದಿಸುವುದನ್ನು ತಪ್ಪಿಸಲು ಅನುಸೂಚಿತ ವ್ಯವಹಾರಗಳನ್ನು ಸಿದ್ಧಗೊಳಿಸಬಹುದು</li>
+      <li xml:lang="it">impostare delle transazioni pianifiacte per evitare l'immissione ripetitiva dei dati;</li>
+      <li xml:lang="hi">डेटा प्रविष्टि के दोहराव से बचने के लिए निर्धारित लेनदेन सेट करें</li>
+      <li xml:lang="es">Configure transacciones programadas para evitar asientos de datos repetidos</li>
+      <li xml:lang="de">Terminierte Buchungen einrichten, um wiederholte Dateneingabe zu vermeiden</li>
+      <li xml:lang="ar">قم بإعداد المعاملات المجدولة لتجنب إدخال البيانات المتكررة</li>
+      <li xml:lang="zh_CN">设置计划交易事项，避免重复数据输入</li>
+      <li xml:lang="uk">Налаштовувати заплановані транзакції для уникнення повторень у записах даних</li>
+      <li xml:lang="tr">Tekrarlanan veri girişini önlemek için zamanlanmış işlemleri ayarlayın</li>
+      <li xml:lang="sr">Подесите заказане трансакције како бисте избегли понављање датума уноса</li>
+      <li xml:lang="nl">vaste journaalposten instellen om te voorkomen dat telkens dezelfde gegevens moeten worden ingevoerd</li>
+      <li xml:lang="fa">برای رهایی از ورود داده تکراری تراکنش‌های زمانبندی‌شده تنظیم کنی</li>
+      <li xml:lang="da">Opsæt planlagte transaktioner for at undgå gentagelse af dataindtastning</li>
+      <li xml:lang="ca">Configura assentaments periòdics per evitar l'entrada de dades repetides</li>
+      <li>QIF/OFX/HBCI Import, Transaction Matching</li>
+      <li xml:lang="mni@bengali">QIF/OFX/HBCI ইম্পোর্ত, ত্রাঞ্জেক্সন চান্নহনবা</li>
+      <li xml:lang="mni">QIF/OFX/HBCI ꯄꯨꯁꯤꯜꯂꯛꯄ, ꯇ꯭ꯔꯥꯟꯁꯦꯛꯁꯟ ꯆꯥꯟꯅꯩ</li>
+      <li xml:lang="mai">QIF/OFX/HBCI आयात, लेनदेन मिलान</li>
+      <li xml:lang="ks">QIF/OFX/HBCI ईमपोट, टरानज़ेकशन मेचिनग</li>
+      <li xml:lang="kok@latin">QIF/OFX/HBCI Aiat, Vevhar zulltta</li>
+      <li xml:lang="kok">QIF/OFX/HBCI आयात,व्यवहार जुळटा</li>
+      <li xml:lang="brx">QIF/OFX/HBCI लाबोनाय, लेनदेन गोरोबनाय</li>
+      <li xml:lang="as">QIF/OFX/HBCI আমদানি কৰক, লেনদেন মিলাইছে</li>
+      <li xml:lang="ur">QIF/OFX/HBCI درآمد , ٹرانسیكشن میچنگ </li>
+      <li xml:lang="te">QIF/OFX/HBCI దిగుమతి, లావాదేవీ పొంతన</li>
+      <li xml:lang="ta">QIF/OFX/HBCI இறக்குமதி, பரிமாற்றம் பொருந்துகிறது</li>
+      <li xml:lang="ru">Имортировать QIF/OFX/HBCI с возможностью сопоставлять проводки</li>
+      <li xml:lang="pt">Importação QIF/OFX/HBCI, comparação de transacções</li>
+      <li xml:lang="mr">क्यूआयएफ/ओएफएक्स/एचबीसीआय आयात, व्यवहार जुळणी</li>
+      <li xml:lang="lv">Importēt QIF/OFX/HBCI failus un salāgot darījumus</li>
+      <li xml:lang="kn">QIF/OFX/HBCI ಆಮದು, ವ್ಯವಹಾರದ ಹೊಂದಾಣಿಕೆ</li>
+      <li xml:lang="it">importazione dei formati QIF/OFX/HBCI e ricerca della corrispondenza delle transazioni;</li>
+      <li xml:lang="hi">QIF/OFX/HBCI आयात, लेनदेन मिलान</li>
+      <li xml:lang="es">Importación QIF/OFX/HBCI, Cotejos de Transacción</li>
+      <li xml:lang="de">Datenaustausch via FinTS(HBCI)/SWIFT-MT9xx/QIF/OFX und Abgleich</li>
+      <li xml:lang="ar">الاستيراد من صيغ QIF/OFX/HBCI، مطابقة المعاملات</li>
+      <li xml:lang="zh_CN">可导入 QIF / OFX / HBCI 文件，匹配交易事项</li>
+      <li xml:lang="uk">Імпортувати QIF/OFX/HBCI із встановленням відповідності транзакцій</li>
+      <li xml:lang="tr">QIF/OFX/HBCI İçe Aktarma, İşlem Eşleşmesi</li>
+      <li xml:lang="sr">КуИФ/ОФИкс/ХБЦИ увоз, поређење трансакције</li>
+      <li xml:lang="sk">QIF/OFX/HBCI Import, párovanie transakcií</li>
+      <li xml:lang="nl">QIF-, OFX- en HCBI-bestanden importeren en koppelen aan bestaande boekingen</li>
+      <li xml:lang="fa">ورود QIF/OFX/HBCI، تناظرپذیری تراکنش</li>
+      <li xml:lang="da">QIF/OFX/HBCI-import, transaktionsmatch</li>
+      <li xml:lang="ca">Importació QIF/OFX/HBCI, concordança d'assentaments</li>
+      <li>Perform financial calculations, such as a loan repayment</li>
+      <li xml:lang="mni@bengali">লোন রিপেএমেন্ত অমগুম্বা, ফাইনান্সিএল কেল্ক্যুলেসনসিং পাংথোকউ</li>
+      <li xml:lang="mni">ꯁꯦꯜ-ꯊꯨꯝ ꯄꯥꯕ ꯄꯥꯡꯊꯣꯛꯎ ꯈꯨꯗꯝ ꯑꯣꯏꯅ ꯂꯣꯟ ꯁꯤꯡꯒꯠꯄ</li>
+      <li xml:lang="mai">ऋण अदायगी जहिना वित्तीय गणना पूरा करू</li>
+      <li xml:lang="ks">पॊरफारम कॊरिव फायनानशल कलकुलेशनॊ, मसलन लोन रिपेमेनट</li>
+      <li xml:lang="kok@latin">Arthik gonnit kor zoxe porim ek rinnachem feddop koxem</li>
+      <li xml:lang="kok">अर्थिक मेजप करात, देखीक कर्जाची परत फेड</li>
+      <li xml:lang="brx">राङारि हिसाबखौ मावफुं, जेरै- लन सुख'फिननाय</li>
+      <li xml:lang="as">ঋণ পুনৰ পৰিশোধৰ দৰে বিত্তীয় গণনাবোৰ সম্পাদন কৰক</li>
+      <li xml:lang="ur">مالی حساب، انجام دیں ، جیسے قرض كی باز ادائیگی </li>
+      <li xml:lang="te">రుణం తిరిగి చెల్లింపు లాంటి ఆర్థిక లెక్కలను వేయి,</li>
+      <li xml:lang="ta">கடனை திருப்பி செலுத்துவது போன்ற, நிதி கணக்கீடுகளை செய்யவும்</li>
+      <li xml:lang="ru">Выполнять финансовые расчёты, например выплаты по займу</li>
+      <li xml:lang="pt">Realize cálculos financeiros, tais como o pagamento de um empréstimo</li>
+      <li xml:lang="mr">आर्थिक हिशेब करणे, उदाहरणार्थ कर्ज परतफेड </li>
+      <li xml:lang="lv">Veikt finanšu aprēķinus, piemēram, kredīta atmaksu</li>
+      <li xml:lang="kn">ಸಾಲ ಮರುಪಾವತಿಯಂತಹ ಹಣಕಾಸು ಲೆಕ್ಕಾಚಾರಗಳನ್ನು ನಿರ್ವಹಿಸಬಹುದು</li>
+      <li xml:lang="it">effettuare dei calcoli finanziari, quali la restituzione di un prestito.</li>
+      <li xml:lang="hi">ऋण अदायगी जैसी वित्तीय गणनाएं पूरी करें</li>
+      <li xml:lang="es">Proporciona cálculos financieros, como una amortización de un préstamo</li>
+      <li xml:lang="de">Finanzkalkulationen ausführen wie Kredit-Rückzahlung</li>
+      <li xml:lang="ar">تنفيذ العمليات الحسابية المالية، مثل سداد القروض</li>
+      <li xml:lang="zh_CN">执行贷款偿还等各种财务计算</li>
+      <li xml:lang="uk">Виконувати фінансові обчислення, зокрема визначення виплат за позичками</li>
+      <li xml:lang="tr">Bir kredi geri ödeme gibi mali hesaplamalar yapın</li>
+      <li xml:lang="sr">Обавите финансијска израчунавања, као што је отплаћивање зајма</li>
+      <li xml:lang="sk">Vykoná finančné výpočty, napr. splácanie pôžičky</li>
+      <li xml:lang="nl">financiële berekeningen maken, zoals de annuïtaire aflossing van een lening</li>
+      <li xml:lang="fa">محاسبات مالی از قبیل بازپرداخت وام انجام دهی</li>
+      <li xml:lang="da">Udfør finansielle beregninger, såsom tilbagebetaling af lån</li>
+      <li xml:lang="ca">Feu càlculs financers, com ara l'amortització de préstecs</li>
+    </ul>
+  </description>
+  <categories>
+    <category>Finance</category>
+  </categories>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source" width="1049" height="590">https://www.gnucash.org/images/features/feature_accounts_lg.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="1049" height="590">https://www.gnucash.org/images/features/feature_register_lg.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source" width="1049" height="590">https://www.gnucash.org/images/features/feature_bar_chart_lg.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.gnucash.org</url>
+  <url type="bugtracker">https://bugs.gnucash.org</url>
+  <url type="faq">https://wiki.gnucash.org/wiki/FAQ</url>
+  <url type="help">https://gnucash.org/docs.phtml</url>
+  <url type="donation">https://gnucash.org/donate.phtml</url>
+  <url type="translate">https://wiki.gnucash.org/wiki/Translation</url>
+  <update_contact>gnucash-devel@gnucash.org</update_contact>
+</component>

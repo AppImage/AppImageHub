@@ -1,0 +1,14 @@
+{
+  "name": "qri-webapp",
+  "productName": "qri",
+  "version": "0.7.0",
+  "description": "qri (\"query\") frontend application",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Brendan O'Brien",
+    "email": "sparkle_pony_2000@qri.io",
+    "url": "github.com/qri-io"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

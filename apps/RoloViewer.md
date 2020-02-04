@@ -3,7 +3,6 @@ layout: app
 
 permalink: /RoloViewer/
 description: Image slideshow viewer
-license: GPL-3.0
 
 icons:
   - RoloViewer/icons/256x256/roloviewer.png
@@ -39,7 +38,6 @@ desktop:
       given on the command line.
     X-AppImage-Type: 2
     X-AppImage-Architecture: x86_64
-    X-AppImage-Payload-License: GPL-3.0
 
 electron:
   description: Image slideshow viewer

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Philipp Wolfer <ph.wolfer@gmail.com> -->
+<component type="desktop">
+  <id>com.uploadedlobster.peek.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Peek</name>
+  <summary>
+    Simple screen recorder with an easy to use interface
+  </summary>
+
+  <description>
+    <p>
+      Peek makes it easy to create short screencasts of a screen area. It was
+      built for the specific use case of recording screen areas, e.g. for
+      easily showing UI features of your own apps or for showing a bug in bug
+      reports. With Peek you simply place the Peek window over the area you
+      want to record and press "Record". Peek is optimized for generating
+      animated GIFs, but you can also directly record to WebM or MP4 if you
+      prefer.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Select a screen region to record</li>
+      <li>Save recorded video as an optimized animated GIF</li>
+      <li>Record directly to WebM or MP4 format</li>
+      <li>Simple user interface optimized for the task</li>
+      <li>Automatically downscale recorded videos</li>
+      <li>Support for HiDPI screens</li>
+      <li>Works inside a GNOME Shell Wayland session (using XWayland)</li>
+    </ul>
+    <p>
+      Peek is not a general purpose screencast app with extended features but
+      rather focuses on the single task of creating small, silent screencasts of
+      an area of the screen for creating GIF animations or silent WebM or MP4
+      videos.
+    </p>
+  </description>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-main-window.png</image>
+      <caption>The main window to select the recording area</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-preferences.png</image>
+      <caption>Peek's preferences dialog</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif</image>
+      <caption>Peek is recording itself</caption>
+    </screenshot>
+  </screenshots>
+
+  <categories>
+    <category>Graphics</category>
+    <category>Utility</category>
+    <category>GNOME</category>
+    <category>GTK</category>
+  </categories>
+
+  <kudos>
+    <kudo>AppMenu</kudo>
+    <kudo>HiDpiIcon</kudo>
+    <kudo>ModernToolkit</kudo>
+    <kudo>Notifications</kudo>
+  </kudos>
+
+  <url type="homepage">http://peek.uploadedlobster.com</url>
+  <!-- <url type="help">http://peek.uploadedlobster.com</url> -->
+  <url type="faq">https://github.com/phw/peek#frequently-asked-questions</url>
+  <url type="bugtracker">https://github.com/phw/peek/issues</url>
+  <!-- <url type="translate">https://hosted.weblate.org/projects/peek/translations/</url> -->
+
+  <translation type="gettext">peek</translation>
+
+  <provides>
+    <binary>peek</binary>
+  </provides>
+
+  <developer_name>Philipp Wolfer</developer_name>
+  <update_contact>ph.wolfer@gmail.com</update_contact>
+
+  <releases>
+    <release version="1.3.1" date="2018-03-29" />
+    <release version="1.3.0" date="2018-03-25" />
+    <release version="1.2.2" date="2018-01-28" />
+    <release version="1.2.1" date="2017-12-03" />
+    <release version="1.2.0" date="2017-11-25" />
+    <release version="1.1.0" date="2017-10-05" />
+    <release version="1.0.3" date="2017-06-13" />
+    <release version="1.0.2" date="2017-06-13" />
+    <release version="1.0.1" date="2017-03-26" />
+    <release version="1.0.0" date="2017-03-11" />
+    <release version="0.9.1" date="2017-02-21" />
+    <release version="0.9.0" date="2017-02-20" />
+    <release version="0.8.0" date="2016-10-25" />
+    <release version="0.7.2" date="2016-07-07" />
+    <release version="0.7.1" date="2016-02-28" />
+    <release version="0.7.0" date="2016-02-26" />
+    <release version="0.6.0" date="2016-01-28" />
+    <release version="0.5.0" date="2016-01-09" />
+    <release version="0.4.0" date="2016-01-08" />
+    <release version="0.3.0" date="2016-01-08" />
+    <release version="0.2.1" date="2016-01-07" />
+    <release version="0.2.0" date="2016-01-07" />
+    <release version="0.1.0" date="2016-01-05" />
+  </releases>
+</component>

@@ -1,0 +1,30 @@
+{
+  "name": "upstream",
+  "version": "2.5.4",
+  "author": "mijdavis2",
+  "description": "Streamflow calc utility for Trout Unlimited",
+  "license": "MIT",
+  "engines": {
+    "node": "8.2.1",
+    "npm": ">=5.3.0"
+  },
+  "engineStrict": true,
+  "main": "./dist/electron/main.js",
+  "dependencies": {
+    "ajv": "^5.2.2",
+    "axios": "^0.16.1",
+    "fs": "^0.0.1-security",
+    "lodash.debounce": "^4.0.8",
+    "moment": "^2.18.1",
+    "node-async-loop": "^1.2.2",
+    "primer-css": "^8.0.0",
+    "vue": "2.4.2",
+    "vue-electron": "1.0.6",
+    "vue-floatthead": "0.0.5",
+    "vue-router": "2.7.0",
+    "vue-scrollto": "2.7.2",
+    "vue-sweetalert": "^0.1.18",
+    "vue2-scrollspy": "1.1.2",
+    "vuex": "2.3.1"
+  }
+}

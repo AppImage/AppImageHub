@@ -1,0 +1,21 @@
+{
+  "name": "ulaunch-previewer",
+  "version": "0.1.0",
+  "description": "uLaunch Previewer",
+  "main": "index.js",
+  "homepage": "https://github.com/IcosaSwitch/uLaunch-Previewer#readme",
+  "author": "Pharuxtan",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "ejs-electron": "^2.0.3",
+    "fs": "0.0.1-security",
+    "howler": "^2.1.2",
+    "html2canvas": "^1.0.0-rc.5",
+    "https-proxy-agent": "^3.0.1",
+    "jquery": "^3.4.1",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "platform-folders": "^0.4.1",
+    "url": "^0.11.0"
+  }
+}

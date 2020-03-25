@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Melon Manager Interface
+Comment=Melon interface
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=@melonprojectmanager-interface
+StartupWMClass=Melon Manager Interface
+X-AppImage-Version=0.8.4
+Categories=Finance;
+X-AppImage-BuildId=18vKbA7e9hWIhkRchR1RZSzeVvN
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

@@ -1,0 +1,20 @@
+{
+  "name": "electron-xiami",
+  "productName": "Xiami Music",
+  "version": "1.5.2",
+  "description": "Xiami Electron desktop application",
+  "main": "src/main.js",
+  "repository": "https://github.com/eNkru/electron-xiami",
+  "author": "Howard Ju <howard.ju@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dbus-native": "^0.2.5",
+    "download": "^6.2.5",
+    "electron-json-storage": "^4.0.2",
+    "electron-settings": "^3.1.1",
+    "electron-updater": "^3.0.3",
+    "fs-extra": "^5.0.0",
+    "hh-mm-ss": "^1.2.0",
+    "lyrics.js": "^0.3.5"
+  }
+}

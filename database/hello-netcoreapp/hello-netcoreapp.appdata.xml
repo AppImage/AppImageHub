@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- For the AppStream metadata specification, see:
+     - https://www.freedesktop.org/software/appstream/docs/chap-Metadata.html#spec-component-filespec
+     - https://www.freedesktop.org/software/appstream/docs/sect-Metadata-ConsoleApplication.html
+
+     Note: According to build time warnings by AppImage tool, appstreamcli must be installed for the tool to properly include this metadata
+-->
+<component type="console-application">
+  <id>com.philippgille.hello-netcoreapp</id>
+  <metadata_license>GPL</metadata_license>
+  <name>hello-netcoreapp</name>
+  <summary>Print Hello World</summary>
+  <description>
+    <p>
+      hello-netcoreapp is a basic .NET Core console application that prints "Hello World!". Its source code repository contains additional scripts and files for building the app and creating release artifacts for a framework-dependent deployment (FDD), self-contained deployment (SCD), Docker image, Chocolatey package and AppImage. So the purpose of this app is not the app itself, but to showcase how to build the aforementioned release artifacts.
+    </p>
+  </description>
+  <categories>
+    <category>Development</category>
+  </categories>
+  <url type="homepage">https://github.com/philippgille/hello-netcoreapp</url>
+  <!-- Not sure if this works for console applications
+  <launchable type="desktop-id">com.philippgille.hello-netcoreapp.desktop</launchable>
+  -->
+  <releases>
+    <release version="0.1.0"/>
+  </releases>
+  <provides>
+    <binary>hello-netcoreapp</binary>
+  </provides>
+  <project_license>GPL</project_license>
+  <developer_name>Philipp Gille</developer_name>
+</component>

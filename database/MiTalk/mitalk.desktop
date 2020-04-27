@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=米聊
+Comment=mitalk desktop
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=mitalk
+StartupWMClass=Mitalk Desktop
+X-AppImage-Version=4.0.32
+MimeType=x-scheme-handler/miliao;
+Categories=Network;Chat;
+X-AppImage-BuildId=1NlW5ikjiT0jahpljch8wwinQg2
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

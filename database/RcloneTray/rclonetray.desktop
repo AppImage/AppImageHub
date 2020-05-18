@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=RcloneTray
+Comment=Simple Rclone bookmark manager GUI that stays in the system tray.
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=rclonetray
+StartupWMClass=RcloneTray
+X-AppImage-Version=1.0.0-alpha.181207.11
+Categories=Utility;
+X-AppImage-BuildId=1E2AGhFHDaOWl6i2dWaFSRy6xL7
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64
+X-AppImage-Payload-License=MIT

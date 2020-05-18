@@ -1,0 +1,24 @@
+{
+  "name": "rclonetray",
+  "productName": "RcloneTray",
+  "title": "RcloneTray",
+  "version": "1.0.0-alpha.181207",
+  "releaseType": "prerelease",
+  "description": "Simple Rclone bookmark manager GUI that stays in the system tray.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimitrov-adrian/RcloneTray"
+  },
+  "author": "Adrian Dimitrov <dimitrov.adrian@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/dimitrov-adrian/RcloneTray/issues"
+  },
+  "license": "MIT",
+  "main": "src/main.js",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "electron-context-menu": "^0.10.1",
+    "electron-is-dev": "^1.0.1",
+    "ini": "^1.3.5"
+  }
+}

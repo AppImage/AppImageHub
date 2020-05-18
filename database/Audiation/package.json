@@ -1,0 +1,16 @@
+{
+  "name": "audiation",
+  "version": "1.0.0",
+  "description": "Open-source music player built on Electron",
+  "author": {
+    "name": "projsh",
+    "email": "thisisafakeemail@gmail.com"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "jsmediatags": "^3.8.1"
+  },
+  "optionalDependencies": {
+    "mpris-service": "^1.1.4"
+  }
+}

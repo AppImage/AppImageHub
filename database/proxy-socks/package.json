@@ -1,0 +1,20 @@
+{
+  "name": "proxy-socks",
+  "version": "1.0.4",
+  "license": "MIT",
+  "description": "Electron app containing SOCKSv5 server and SSH2 client",
+  "author": {
+    "name": "belodetek.io",
+    "email": "team@belodetek.io",
+    "url": "http://belodetek.io"
+  },
+  "repository": "https://github.com/ab77/proxy-socks",
+  "main": "main.js",
+  "dependencies": {
+    "socksv5": "git://github.com/mscdex/socksv5.git",
+    "ssh2": "git://github.com/mscdex/ssh2.git",
+    "string.format": "*",
+    "auto-launch": "*",
+    "update-electron-app": "*"
+  }
+}

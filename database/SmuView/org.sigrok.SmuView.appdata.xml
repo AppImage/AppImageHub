@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Creative Commons CC0 1.0 Universal (CC0-1.0, Public Domain Dedication). -->
+<component type="desktop">
+  <id>org.sigrok.SmuView.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>SmuView</name>
+  <summary>Power supplies, electronic loads, multimeters and more.</summary>
+  <description>
+    <p>SmuView is a Qt based source measure unit GUI for sigrok.</p>
+    <p>Features:</p>
+    <ul>
+      <li>Remote control devices</li>
+	  <li>Data acquisition</li>
+      <li>Multiple devices at the same time</li>
+      <li>Math channels</li>
+      <li>Data export as CSV</li>
+    </ul>
+  </description>
+  <url type="homepage">http://sigrok.org/wiki/SmuView</url>
+  <url type="bugtracker">https://github.com/knarfS/smuview/issues</url>
+  <url type="faq">http://sigrok.org/wiki/FAQ</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://sigrok.org/wimg/3/32/Sv_with_load.png</image>
+    </screenshot>
+  </screenshots>
+  <provides>
+    <binary>smuview</binary>
+  </provides>
+  <launchable type="desktop-id">org.sigrok.SmuView.desktop</launchable>
+</component>

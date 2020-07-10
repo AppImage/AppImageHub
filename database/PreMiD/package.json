@@ -1,0 +1,16 @@
+{
+  "name": "premid",
+  "productName": "PreMiD Portable",
+  "author": "Timeraa",
+  "description": "Discord Rich Presence for websites.",
+  "version": "2.0.20",
+  "repository": "https://github.com/PreMiD/PreMiD",
+  "license": "MIT",
+  "dependencies": {
+    "auto-launch": "5.0.5",
+    "discord-rpc": "github:discordjs/RPC",
+    "electron-store": "5.1.0",
+    "electron-updater": "^4.2.0",
+    "socket.io": "2.3.0"
+  }
+}

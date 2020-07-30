@@ -1,0 +1,10 @@
+{
+  "name": "IIROSE",
+  "version": "0.0.3",
+  "description": "IIROSE",
+  "main": "main.js",
+  "author": "Theresa",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

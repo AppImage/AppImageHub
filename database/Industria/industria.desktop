@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Industria
+Comment=An electron-vue project
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=industria
+X-AppImage-Version=1.0.34.154
+X-AppImage-BuildId=170b5410-710e-11a9-1b82-fd11b9c92b12
+Categories=Utility;
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

@@ -1,0 +1,18 @@
+{
+  "name": "chef-workstation",
+  "productName": "Chef Workstation",
+  "version": "0.0.12",
+  "description": "Tray application for Chef Workstation.",
+  "repository": "https://github.com/chef/chef-workstation-tray",
+  "author": {
+    "name": "Chef Software, Inc.",
+    "email": "beta@chef.io",
+    "url": "https://chef.sh"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "electron-is": "^3.0.0",
+    "electron-osx-appearance": "^0.1.1",
+    "electron-updater": "3.1.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nobstorrent",
+  "version": "1.0.0",
+  "description": "An ad-free, no-bullshit torrent client.",
+  "main": "main.js",
+  "repository": "https://github.com/electron/electron-quick-start",
+  "author": "skiilaa",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "electron-is-dev": "^1.0.1",
+    "webtorrent": "^0.103.0"
+  }
+}

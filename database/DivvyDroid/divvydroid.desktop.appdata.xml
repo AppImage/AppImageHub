@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+	<id>net.smoothware.divvydroid</id>
+	<metadata_license>CC0-1.0</metadata_license>
+	<project_license>GPL-3.0+</project_license>
+	<name>DivvyDroid</name>
+	<summary>Application to screencast and remote control Android devices</summary>
+	<description>
+		<p>DivvyDroid is an Qt/C++ application for remote controlling you Android device. It implements ADB TCP client.</p>
+		<ul>
+			<li>Requires ADB to be installed and in PATH, root will help on some devices</li>
+			<li>Direct device communication over internal ADB client and TCP</li>
+			<li>Fast android device display streaming using screenrecord (H.264)</li>
+			<li>Fast and accurate keyboard and touch handling using android monkey and by direct writes to device's /dev/input</li>
+			<li>Fallback to display streaming using screencap (JPEG, PNG, RAW)</li>
+			<li>Fallback to slow adb shell input command, when monkey is unavailable or without permissions to write to /dev/input</li>
+		</ul>
+	</description>
+	<launchable type="desktop-id">divvydroid.desktop</launchable>
+	<url type="homepage">https://github.com/maxrd2/divvydroid</url>
+	<screenshots>
+		<screenshot type="default">
+			<caption>Main application window</caption>
+			<image>https://raw.githubusercontent.com/maxrd2/DivvyDroid/master/pkg/screenshot.png</image>
+		</screenshot>
+	</screenshots>
+	<provides>
+		<id>divvydroid.desktop</id>
+		<binary>divvydroid</binary>
+	</provides>
+	<releases>
+		<release date="2019-05-18" version="1.0.0" />
+	</releases>
+</component>

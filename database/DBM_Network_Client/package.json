@@ -1,0 +1,17 @@
+{
+  "name": "dbm-network-client",
+  "version": "1.1.0",
+  "description": "Helps with DBM stuff",
+  "main": "main.js",
+  "author": "DBM Network",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rpc": "^3.0.1",
+    "ejs-electron": "^2.0.3",
+    "electron-updater": "^4.0.6",
+    "font-awesome": "^4.7.0",
+    "fs-extra": "^7.0.1",
+    "github-download-parts": "^2.1.0",
+    "jquery": "^3.3.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "passerine",
+  "version": "1.0.1",
+  "description": "Product Hunt desktop app",
+  "license": "MIT",
+  "repository": "github.com/aviary-apps/Passerine",
+  "author": {
+    "name": "Aviary Apps",
+    "email": "thabeatsz@gmail.com",
+    "url": "gauthamzz.com"
+  },
+  "dependencies": {
+    "electron-context-menu": "^0.9.1",
+    "electron-debug": "^1.4.0",
+    "electron-dl": "^1.0.0",
+    "electron-is-dev": "^0.3.0",
+    "electron-localshortcut": "^2.0.0",
+    "electron-log": "^2.0.2",
+    "electron-store": "^1.1.0",
+    "electron-updater": "^2.18.2",
+    "element-ready": "^2.2.0",
+    "facebook-locales": "^1.0.464"
+  }
+}

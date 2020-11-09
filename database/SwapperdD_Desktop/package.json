@@ -1,0 +1,30 @@
+{
+  "name": "swapperd-desktop",
+  "version": "v1.0.0-beta.2",
+  "description": "The native Desktop interface for SwapperD",
+  "author": "Ren",
+  "license": "MIT",
+  "dependencies": {
+    "@types/rc-progress": "^2.2.1",
+    "auto-launch": "^5.0.5",
+    "axios": "^0.18.0",
+    "bcryptjs": "^2.4.3",
+    "bignumber.js": "^8.0.2",
+    "body-parser": "^1.18.3",
+    "electron-store": "^2.0.0",
+    "electron-updater": "^4.0.6",
+    "express": "^4.16.4",
+    "immutable": "^4.0.0-rc.12",
+    "menubar": "^5.2.3",
+    "moment": "^2.24.0",
+    "rc-progress": "^2.3.0",
+    "react": "^16.7.0",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.7.0",
+    "react-keybinding-component": "^1.0.0",
+    "source-map-support": "^0.5.10",
+    "sqlite3": "^4.0.6",
+    "unstated": "^2.1.1"
+  },
+  "main": "main.js"
+}

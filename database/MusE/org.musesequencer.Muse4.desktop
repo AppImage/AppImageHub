@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=MusE
+GenericName=Digital Audio Workstation
+GenericName[fr]=Séquenceur audio/MIDI
+Comment=A music editor for Linux
+Comment[fr]=Éditeur MIDI de musique
+Icon=muse
+Type=Application
+Exec=muse4
+Terminal=false
+Categories=Sequencer;Midi;X-Jack;X-Sequencers;X-MIDI;Audio;AudioVideo;
+MimeType=audio/midi;application/x-muse;application/xml;
+X-AppImage-Version=master
+
+[AppImageHub]
+# Dear upstream developer, please include update information in your AppImage
+# (e.g., with appimagetool -u) so that users can easily update the AppImage
+X-AppImage-Signature=no valid OpenPGP data found. the signature could not be verified. Please remember that the signature file (.sig or .asc) should be the first file given on the command line. 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=GNU TeXmacs
+Comment=A structured wysiwyg scientific text editor
+BinaryPattern=texmacs
+Protocols=
+MimeType=text/x-texmacs;text/plain;text/x-tex;
+Exec=texmacs %f
+Icon=TeXmacs
+TerminalOptions=
+Path=
+Type=Application
+Terminal=0
+MapNotify=false
+Categories=Education;Science;Math;
+
+[AppImageHub]
+X-AppImage-UpdateInformation=zsync|https://download.opensuse.org/repositories/home:/slowphil:/texmacs-devel/AppImage/texmacs-latest-x86_64.AppImage.zsync
+X-AppImage-Signature=Signature made Tue 15 Oct 2019 07:39:28 AM UTC using RSA key ID C5B8CA84 Can't check signature: No public key 
+X-AppImage-Type=2
+X-AppImage-Architecture=x86_64

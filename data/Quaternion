@@ -1,0 +1,3 @@
+https://bintray.com/qmatrixclient/ci/download_file?file_path=quaternion-git-1124.AppImage
+# Link without version would be better; someone needs to write a parser for Bintray
+# There is also a "compat" version, what is the difference?

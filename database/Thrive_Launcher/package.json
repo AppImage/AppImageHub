@@ -1,0 +1,25 @@
+{
+  "name": "thrive-launcher",
+  "productName": "Thrive Launcher",
+  "version": "1.0.3",
+  "description": "Thrive Launcher manages downloading Thrive releases",
+  "main": "main.js",
+  "repository": "https://github.com/Revolutionary-Games/Thrive-Launcher",
+  "author": {
+    "name": "Revolutionary Games",
+    "email": "revolutionarygamesstudio@gmail.com",
+    "url": "http://revolutionarygamesstudio.com/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "feedparser": "^2.2.9",
+    "jquery": "^3.3.1",
+    "js-sha3": "^0.8.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.20.1",
+    "openpgp": "^4.3.0",
+    "request": "^2.88.0",
+    "strip-json-comments": "^2.0.1"
+  },
+  "postinstall": "electron-builder install-app-deps"
+}

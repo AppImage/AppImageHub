@@ -29,7 +29,6 @@ desktop:
     Exec: noteshrink-qt
     Icon: noteshrink-qt-icon
     Categories: Utility
-    X-AppImage-Version: 0354ed2
   AppImageHub:
     X-AppImage-Signature: no valid OpenPGP data found. the signature could not be verified.
       Please remember that the signature file (.sig or .asc) should be the first file

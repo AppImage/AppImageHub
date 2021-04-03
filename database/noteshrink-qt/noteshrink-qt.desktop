@@ -5,7 +5,6 @@ Comment=noteshrink-qt app
 Exec=noteshrink-qt
 Icon=noteshrink-qt-icon
 Categories=Utility;
-X-AppImage-Version=0354ed2
 
 [AppImageHub]
 # Dear upstream developer, please include update information in your AppImage

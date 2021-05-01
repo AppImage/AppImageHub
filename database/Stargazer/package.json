@@ -1,0 +1,26 @@
+{
+  "name": "holusion-stargazer",
+  "version": "1.1.1",
+  "description": "Network discovery and product administration toolset for holographic displays",
+  "main": "main.js",
+  "homepage": "https://github.com/Holusion/stargazer/releases/latest",
+  "author": "Sebastien DUMETZ <s.dumetz@holusion.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bonjour": "^3.5.0",
+    "electron-dl": "^1.12.0",
+    "express": "^4.16.3",
+    "form-data": "^2.3.2",
+    "http-proxy": "^1.16.2",
+    "material-components-web": "^0.32.0",
+    "mdns": "^2.3.4",
+    "nan": "^2.9.2",
+    "navigo": "^7.1.1",
+    "request": "^2.88.0",
+    "socketio": "^1.0.0",
+    "winston": "^2.4.1"
+  },
+  "optionalDependencies": {
+    "wixtoolset-compiler": "^1.0.3"
+  }
+}
